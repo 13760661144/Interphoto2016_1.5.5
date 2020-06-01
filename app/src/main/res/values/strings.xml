@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">印象</string>
+    <string name="app_name_recommend">印象(推荐)</string>
+
+    <string name="facebook_app_id">822979784500181</string>
+    <string name="fb_login_protocol_scheme">fb822979784500181</string>
+    <string name="fb_app_name">InterPhoto</string>
+
+
+    <string name="ok">确定</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="tip">提示</string>
+    <string name="ok2">好的</string>
+
+    <!-- 首页 -->
+    <string name="homepage_camera">拍照</string>
+    <string name="homepage_capture">录像</string>
+    <string name="homepage_retouch">美化</string>
+    <string name="homepage_photoes">照片</string>
+    <string name="homepage_video">视频</string>
+    <string name="homepage_edit">编辑</string>
+    <string name="homepage_amazing">印象杂志</string>
+    <string name="homepage_material">素材商店</string>
+    <string name="homepage_apps">精品推荐</string>
+    <string name="homepage_setting">设置</string>
+    <string name="homepage_tuijian">精品推荐</string>
+    <string name="homepage_Goodies">推荐</string>
+    <string name="homepage_Special">精品</string>
+    <string name="homepage_jingtou">镜头</string>
+    <string name="homepage_qualityData">照片</string>
+    <string name="homepage_addData">图片加日期</string>
+    <string name="homepage_hightqulity">高清模式</string>
+    <string name="homepage_System">系统</string>
+    <string name="homepage_About">关于</string>
+    <string name="homepage_Feedback">问题反馈</string>
+    <string name="homepage_rating">应用好评</string>
+    <string name="homepage_clear_sys_buffer">清理缓存</string>
+    <string name="setting_language">语言</string>
+    <string name="music_mistake">获取音乐信息时发生异常</string>
+
+    <string name="rule_password">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ\\|`¬!"£$¥€%^*()~=#{}[];':,./?/*-_+&#060;&#062;&#064;&#038;</string>
+
+    <!--String introText = "印象，\n献给热爱生活，\n刷新色彩的光影记录者。\n\n" +-->
+    <!--"不同的时间，不同的心情，\n不同的地点，不同的色温，不同的人...\n构成了你独特的作品。\n\n" +-->
+    <!--"创作之余，\n我们相信，\n你可以在这里，\n遇见更多丰富的内心。\n做一款应用和我们的印象电子杂志同名，\n见证10年。";-->
+
+
+    <string name="about_interphoto">印象,</string>
+    <string name="about_show1">\n献给热爱生活，\n刷新色彩的光影记录者。\n\n</string>
+
+    <string name="about_show2"> 不同的时间，不同的心情，\n不同的地点，不同的色温，不同的人......\n构成了你独特的作品。\n\n</string>
+    <string name="about_show3">  创作之余，\n我们相信，\n你可以在这里，\n遇见更多丰富的内心。</string>
+    <string name="about_show4">\n做一款应用和我们的印象电子杂志同名，\n见证10年。</string>
+
+    <!-- 相机 -->
+    <string name="Basic">基础</string>
+    <string name="Food">美食</string>
+    <string name="Group">合照</string>
+    <string name="Landscape">风景</string>
+    <string name="usetutorial">使用该构图</string>
+    <string name="canceltutorial">取消构图</string>
+    <string name="camerapage_check_record_permission">请检查录音权限是否开启</string>
+    <string name="camera_open">开启</string>
+    <string name="camera_close">关闭</string>
+    <string name="camera_more">更多</string>
+    <string name="camera_size">画幅</string>
+    <string name="camera_flash">闪光灯</string>
+    <string name="camera_flash_auto">自动</string>
+    <string name="camera_timer">定时</string>
+    <string name="camera_timer_3">3S</string>
+    <string name="camera_timer_10">10S</string>
+    <string name="camera_touch_to_capture">触屏拍照</string>
+    <string name="hide">隐藏</string>
+    <string name="camera_video_tip">开启精彩录像</string>
+
+    <string name="camera_first_teach">使用构图教程\n辅助拍摄</string>
+    <string name="camera_first_more">更多：调整\n画幅与时长</string>
+    <string name="camera_first_filter">点击选择滤镜</string>
+    <string name="camera_first_gesture">左右滑动切换滤镜</string>
+    <string name="camera_first_shutter">点击录制多段视频</string>
+    <string name="camera_first_settings">切换画幅与时长</string>
+
+    <!-- 录像 -->
+    <string name="camera_duration">时长</string>
+    <string name="camera_duration_10">10\"</string>
+    <string name="camera_duration_30">30\"</string>
+    <string name="camera_duration_60">60\"</string>
+    <string name="camera_duration_180">180\"</string>
+    <string name="camera_snippet_title">片段数</string>
+    <string name="camera_snippet_free">自由</string>
+    <string name="camera_snippet_1">1</string>
+    <string name="camera_snippet_2">2</string>
+    <string name="camera_snippet_3">3</string>
+    <string name="camera_snippet_4">4</string>
+    <string name="camera_snippet_5">5</string>
+    <string name="camera_snippet_6">6</string>
+    <string name="camera_back_message">继续退出将删除当前拍摄的视频，\n是否退出</string>
+    <string name="camera_filter_original">原图</string>
+
+    <!-- 美化 -->
+    <string name="Filters">滤镜</string>
+    <string name="Clip">片段</string>
+    <string name="footage">片段</string>
+    <string name="Music">音乐</string>
+    <string name="Light">光效</string>
+    <string name="Watermark">水印</string>
+    <string name="Theme_watermark">文字</string>
+    <string name="Add">添加</string>
+    <string name="Saved">已保存</string>
+    <string name="Mine">我的</string>
+    <string name="Crop">裁剪</string>
+    <string name="Rotate">旋转</string>
+    <string name="HorizontalCorrection">水平校正</string>
+    <string name="VerticalCorrection">垂直校正</string>
+    <string name="Exposure">亮度</string>
+    <string name="Contrast">对比度</string>
+    <string name="Temperature">色温</string>
+    <string name="Saturation">饱和度</string>
+    <string name="Sharpness">锐度</string>
+    <string name="Clarity">增强</string>
+    <string name="Highlight">高光减淡</string>
+    <string name="Shadow">阴影补偿</string>
+    <string name="Tone">色调</string>
+    <string name="Vignette">暗角</string>
+    <string name="Grain">颗粒</string>
+    <string name="Fade">褪色</string>
+    <string name="Curve">曲线</string>
+    <string name="Beauty">肤色调整</string>
+    <string name="Adjust">调整</string>
+    <string name="lightTips">单指移动可移动光效</string>
+    <string name="lightTips1">双指按住旋转可旋转光效</string>
+    <string name="lightTips2">双指张开收缩可放大/缩放光效</string>
+    <string name="watermark">照片水印</string>
+    <string name="Attitude">态度</string>
+    <string name="idea">创意</string>
+
+    <string name="video_watermark">视频水印</string>
+
+    <string name="video_originality">视频创意</string>
+    <string name="photo_attitude">照片态度</string>
+    <string name="photo_watermark">照片水印</string>
+    <string name="Color">颜色</string>
+    <string name="Shadow1">阴影</string>
+    <string name="Opacity">不透明度</string>
+    <!--<string name="not">No</string>-->
+    <!--<string name="continueYes">Yes</string>-->
+    <!--<string name="tryLater">Try it later</string>-->
+    <!--<string name="networkTimeout">Network Timeout</string>-->
+    <!--<string name="haode">OK</string>-->
+    <!--<string name="downloadfialTips">Downloading failed. Continue or not?</string>-->
+    <!--<string name="photofontError">Photo path format error!</string>-->
+    <!--<string name="saveError">Save error</string>-->
+    <!--<string name="saveError1">Save error</string>-->
+    <!--<string name="NoImage">No image</string>-->
+    <!--<string name="ShareSuccessful">Share Successful</string>-->
+    <!--<string name="ShareCanceled">Share Canceled</string>-->
+    <!--<string name="Sharefailed">Share failed, try it again?</string>-->
+    <!--<string name="SomethingWrong">Something is Wrong</string>-->
+    <string name="Moments">朋友圈</string>
+    <string name="Wechat">微信好友</string>
+    <string name="Sina">微博</string>
+    <string name="QQZone">QQ空间</string>
+    <string name="Circle">在一起</string>
+    <string name="Save">保存</string>
+    <string name="Restore">恢复</string>
+    <string name="Copy">复制效果</string>
+    <string name="Paste">粘贴效果</string>
+    <string name="Delete">删除</string>
+    <string name="ShareTo">分享到</string>
+    <string name="viaInterPhoto">来自印象的分享#InterPhoto#</string>
+    <string name="UnlockSuccessful">解锁成功</string>
+
+    <string name="needDownedTips1">编辑该素材需下载特殊字体 (</string>
+    <string name="needDownedTips2">M)否则无法编辑文本内容</string>
+    <string name="needFontDownedTips3">编辑该水印需下载特殊字体，否则将直接使用默认字体。</string>
+
+    <string name="deletewatermark">删除水印</string>
+    <string name="isDeletemarkTips">是否删除%s水印素材?" </string>
+    <!--<string name="isDeletemarkTips1"></string>-->
+    <string name="delete">是否删除</string>
+
+
+    <!--"  可通过PC登陆网站" + linkUrl + "上传\n  专属水印，获得下载ID\n";-->
+
+
+    <!--<string name="tipsIDLength">Tip: ID has 8 numbers</string>-->
+    <!--<string name="tipsIDagaint">Your ID is incorrect, please type in again</string>-->
+    <string name="createwatermarkName">保存水印至“我的”文件夹\n请自定义水印名字</string>
+    <!--<string name="renameWatermark">Please rename your watermark</string>-->
+    <!--<string name="renameOver">This name already existed, please rename it</string>-->
+    <!--<string name="repeateName">Repeated name</string>-->
+
+    <string name="diyLogo">自定义水印</string>
+    <string name="tipsimportPhoto1">导入水印就可以为照片打上\n自己的LOGO了</string>
+    <string name="Downloading">下载字体中...</string>
+
+    <string name="coverWatermark">是</string>
+    <string name="createNewWatermark">否，新建保存"</string>
+    <string name="modifyWatermarkTitle">是否覆盖保存</string>
+
+    <string name="doubleClickChange">二次点击滤镜可进行微调</string>
+    <string name="tipscontrolPoint">轻点可添加控制点，长按可将它移除</string>
+    <string name="tipsAddwaterMark">添加水印并点击右上角图标即可保存</string>
+    <string name="texthelpanim1">点击按钮或长按文字可实现拆解及重组</string>
+    <string name="texthelpanim2">点击即可保存水印至“我的”收藏夹</string>
+    <string name="Done">完成</string>
+    <!--<string name="installwechatTips">Please install wechat before sharing</string>-->
+    <!--<string name="installfacebookTips">Please install facebook before sharing</string>-->
+    <!--<string name="noPermissionTips">No permission to access the system album, please authorize in  System Settings “Settings -> Privacy -> Locations“ to switch it to “ON“ </string>-->
+    <!--<string name="Select">Select</string>-->
+    <!--<string name="Store">Store</string>-->
+    <!--<string name="NoNetwork">No network</string>-->
+    <!--&lt;!&ndash;<string name="">Please install facebook before sharing</string>&ndash;&gt;-->
+    <!--<string name="loginTips">Please login</string>-->
+    <string name="confirmTounlinkQQ">是否要取消绑定QQ空间吗?</string>
+    <string name="Isee">我知道了</string>
+    <string name="checkNetworkTips">请检查网络</string>
+    <string name="networkError">貌似没网或者网络不好呢！</string>
+    <!--<string name="Beautify">Beautify</string>-->
+    <!--<string name="saveFailTips">-_- save photo failed\n Please go to System Settings “Settings -> Privacy -> Photos“ to check the permissions, switch it to “ON“!  Or not enough space on your device.</string>-->
+    <!--<string name="saveFail">Share failed</string>-->
+
+    <string name="autoLanguage">自动</string>
+    <string name="chinaLanguage">简体中文</string>
+    <string name="englishLanguage">English</string>
+
+    <string name="deleteItemTips">"你确定删除所选项吗?"</string>
+    <string name="shuttertext">无声拍照</string>
+    <string name="ImportedText">已导入</string>
+    <string name="Cancel">取消</string>
+    <string name="filterLearnTips">浏览大师介绍学习滤镜使用技巧</string>
+    <string name="openBrowserFailed">打开浏览器下载失败</string>
+    <string name="deleteAndRename">长按可对素材删除及重命名</string>
+    <string name="saving">正在保存</string>
+    <string name="pasting">粘贴中...</string>
+    <string name="deletedSuccess">删除成功</string>
+    <string name="Linked">绑定成功</string>
+    <string name="selectPhotoAgain">图片不存在，请重新选择</string>
+    <string name="added">添加成功</string>
+    <string name="addFailed">添加失败</string>
+    <string name="downloadFailed">下载失败</string>
+    <string name="deletePhoto">删除照片</string>
+    <string name="installplayStoreTips">还没有安装安卓市场，请先安装</string>
+    <string name="shareToWechat">分享到朋友圈</string>
+    <string name="unlock">解锁</string>
+    <string name="shareToWechatuseTips">分享到朋友圈就能使用限量级套装哦</string>
+    <string name="canuseTips">给我们个五星评价就能抢先使用新素材了哦</string>
+    <string name="unlockfilterTips">分享到朋友圈，即可解锁使用大师滤镜</string>
+    <string name="uplocklightTips">分享到朋友圈，即可解锁使用光效</string>
+    <string name="shareToUnlockVideoTextTips">分享到朋友圈，即可下载体验该水印</string>
+    <string name="unlockVideoTextTips">五星评分，即可解锁使用水印</string>
+    <string name="unlockFailed">解锁失败</string>
+    <string name="addNow">马上添加</string>
+    <string name="cameraPermissionLimit">相机权限被禁止了</string>
+    <string name="cameraNotCanOpenTips">镜头无法启动，可能是因为你的系统设置或者其他安全管理软件关闭了相机权限。\n请开启印象的相机权限，并重启试试。</string>
+    <!--<string name="openPermissionTips">请开启印象的相机权限，并重启试试。</string>-->
+    <string name="openPermissionMethod">开启权限方法</string>
+    <string name="startPictures">开始拍照</string>
+    <string name="cameraErrorTips">相机出错了，\n请关闭页面后重新打开</string>
+
+    <string name="lensCorrectionTips">镜头方向校正</string>
+    <string name="keepPhoneVerticalTips">请保证手机处于垂直\n竖屏状态, 点击开始校正</string>
+    <string name="cameraAdjusting">开始校正</string>
+    <string name="PleasekeepPhoneVericalTips">请保持手机垂直</string>
+    <string name="lensDirectionCorrectedTips">现在看到的预览方向正确吗？</string>
+    <string name="correct">正确</string>
+    <string name="A">校正完成</string>
+    <string name="Exit">关闭</string>
+    <string name="pressAgainToExit">再按一次返回键将退出印象</string>
+
+    <string name="deletingPhotos">正在删除图片...0/</string>
+    <string name="deletingPhotosOther">正在删除图片...</string>
+    <string name="nothingMore">已经没有了</string>
+    <string name="downloadFailedTips">下载图片失败</string>
+    <string name="photoDeleted">图片已被删除</string>
+    <string name="loadPhotoFailed">加载图片失败</string>
+    <string name="photos">照片</string>
+    <string name="OtherAlbums">其他相册</string>
+    <string name="SelectAlbums">选择相册</string>
+    <string name="MultipleSelection">多选，已选0张</string>
+    <string name="startImageStitching">开始拼图</string>
+    <string name="InsertAPhoto">插入</string>
+    <string name="PhotoNotExist">图片不存在</string>
+    <string name="sureAdd">确实添加</string>
+    <string name="alreaySelectedPhotoTips">这张图刚才已经选过了，是否继续添加？</string>
+    <string name="photosSeletedTips1">当前已选择了</string>
+    <string name="photosSeletedTips2">张图片</string>
+    <string name="notSupportedTips">不支持此比例的图片</string>
+    <string name="InvalidImgeTips">无效图片，图片可能已经被删除</string>
+    <string name="MultipleSelection1">多选，已选择</string>
+    <string name="MultipleSelection2">张</string>
+
+    <string name="curSelect">当前选中</string>
+    <string name="tipsText1">张(最多</string>
+    <string name="tipsText2">张)</string>
+    <string name="leastPhoto1">至少选择</string>
+    <string name="leastPhoto2">张图片</string>
+
+    <string name="PullDownToRefresh">下拉可刷新</string>
+    <string name="releaseToRefresh">放开刷新</string>
+    <string name="refreshing">正在刷新..</string>
+
+    <string name="refreshFinished">刷新完成</string>
+    <string name="lastUpdated">上次更新：</string>
+    <string name="lensCorrection">摄像头矫正</string>
+    <string name="account">账号</string>
+    <string name="alreadyBoundTips">帐号已绑定,是否要取消绑定?</string>
+    <string name="LinkSinaWeiboFailed">绑定新浪微博失败</string>
+    <string name="installSinaWeiboTips">还没有安装最新的新浪微博客户端，需要安装后才能绑定</string>
+    <!--<string name="installInstagramTips">Please install Instagram before sharing</string>-->
+    <string name="installFacebookTips">还没有安装Facebook客户端，需要安装后才能发送</string>
+    <string name="installTwitterTips">还没有安装Twitter客户端，需要安装后才能发送</string>
+    <string name="installInstagramTips">还没有安装Instagram客户端，需要安装后才能发送</string>
+    <string name="installSinaTips">还没有安装Sina客户端，需要安装后才能发送</string>
+    <string name="installCircleTips">还没有安装在一起客户端，需要安装后才能发送</string>
+    <string name="facebook_client_start_fail">唤起Facebook客户端失败，请确认Facebook处于启动状态后再重试发送</string>
+    <string name="facebook_client_call">正在唤起Facebook，请稍等...</string>
+
+    <!-- 视频分享 -->
+    <string name="share_to_wechat_client_tip">还没有安装微信客户端，需要安装后才能分享</string>
+    <string name="open_wechat_tip">打开微信后，请从相册直接选择视频分享至朋友圈</string>
+    <string name="open_wechat_ok">打开微信</string>
+
+
+    <!--还没有安装Facebook客户端，需要安装后才能发送-->
+    <string name="installQQTips">还没有安装最新手机QQ，需要安装后才能绑定</string>
+    <string name="boundQQZoneFailed">绑定QQ空间失败</string>
+    <string name="updateImmediately">立即更新</string>
+    <string name="MoreDetails">了解详情</string>
+    <string name="skip">跳过</string>
+    <string name="album">相册</string>
+    <string name="xiangji">相机</string>
+    <string name="selectSources">选择图片来源</string>
+    <string name="selectPhotos">选择图片</string>
+    <string name="shareFailed">分享失败</string>
+    <string name="FromInterphoto">来自Interphoto</string>
+    <string name="accessDataFailed">获取数据失败</string>
+    <string name="sending">发送中..</string>
+    <string name="download">下载</string>
+    <string name="continuetext">继续</string>
+
+    <string name="photocorrection">照片方向校正</string>
+    <string name="isorientationcorrect">现在看到的照片方向正确吗?</string>
+    <string name="contentNotbeempty">发送内容不能为空</string>
+    <string name="mustSelectOnepicture">图片不能为空</string>
+    <string name="huanyuan">还原</string>
+
+    <string name="share_success">分享成功</string>
+    <string name="oriphoto">原 图</string>
+    <string name="Linking">绑定qq空间中...</string>
+    <string name="restore_tip">"恢复操作将清除当前的编辑，\n请选择要恢复的效果 "</string>
+    <string name="restore_last">恢复上一步</string>
+    <string name="restore_org">恢复原图</string>
+
+    <string name="processing">正在处理</string>
+    <string name="clickHideOrDragOrder">点击“hideI”删除或拖动“dragI”更改顺序</string>
+
+    <!-- 相册 -->
+    <string name="albums">系统相册</string>
+    <string name="interphoto">InterPhoto</string>
+    <string name="select">多选</string>
+    <string name="Continue">继续</string>
+    <string name="deleting">正在删除...</string>
+
+    <plurals name="photo_selected">
+        <item quantity="zero">已选择%d张</item>
+        <item quantity="one">已选择%d张</item>
+        <item quantity="other">已选择%d张</item>
+    </plurals>
+
+    <plurals name="photo_unsaved">
+        <item quantity="zero">有%d张图片未保存</item>
+        <item quantity="one">有%d张图片未保存</item>
+        <item quantity="other">有%d张图片未保存</item>
+    </plurals>
+
+
+    <string name="cloud_album">\"\"</string>
+    <string name="cloud_album_auto_save">\"\"</string>
+    <string name="cloud_album_used_volume">\"\"</string>
+
+    <string name="optimize_memory">优化内存</string>
+    <string name="optimize_memory_completed">优化完成</string>
+    <string name="calculating_cache">正在计算缓存空间</string>
+    <string name="total_volume">总容量%s</string>
+    <string name="has_scan">已扫描%d%%</string>
+    <string name="interphoto_memory">InterPhoto已用%s</string>
+    <string name="left_memory">剩余%s可用</string>
+    <string name="no_enough_memory">您的手机存储空间不足250MB无法进行美化操作，请先进行缓存清理</string>
+    <string name="check_memory">检查手机空间</string>
+    <string name="clear_interphoto">清理InterPhoto</string>
+    <string name="can_not_open_memory_page">无法打开手机空间界面</string>
+    <string name="clear_cache_page_tip1">InterPhoto会自动为您管理存储空间，妥善保管必要的数据，方便进行照片编辑和避免反复耗费流量下载</string>
+    <string name="clear_cache_page_tip2">若您需要储存空间，可把未保存的照片进行保存，会自动释放一定的空间</string>
+    <string name="clear_cache_page_tip3">或者可以一键清理缓存，但这样将清除所有照片的编辑历史记录</string>
+    <string name="interphoto_cache">InterPhoto已用空间</string>
+    <string name="interphoto_cache_percent">占用手机%.2f%%储存空间</string>
+    <string name="clearing_cache">正在清理...</string>
+    <string name="clear_cache">清理缓存</string>
+    <string name="clear_cache_completed">清理完成</string>
+
+    <string name="tip_continue">粘贴将叠加当前的效果是否继续</string>
+    <string name="processing_tip">处理中...</string>
+    <string name="app_album_empty_tip">请在本地相册选择一张图片\n开启您的InterPhoto创作之旅</string>
+    <string name="system_album_empty_tip">相册暂无照片</string>
+
+    <string name="mgr_unlock">分享到朋友圈，即可解锁下载该主题</string>
+    <string name="fileter_help_anim_tips3">长按拖动滤镜进行排序或隐藏操作</string>
+    <string name="QQ">QQ</string>
+    <string name="theme_download">下载</string>
+    <string name="theme_use">使用</string>
+    <string name="download_now">立即下载</string>
+    <string name="use_now">立即体验</string>
+    <string name="downloading">下载中...</string>
+    <string name="download_continue">继续下载</string>
+    <string name="Ooops">网络出错，无法下载</string>
+
+    <plurals name="ensure_delete">
+        <item quantity="one">确定要删除这%d张照片？</item>
+        <item quantity="other">确定要删除这%d张照片？</item>
+    </plurals>
+    <string name="themeUnlockFriend">分享到朋友圈，即可下载体验该主题</string>
+    <string name="cancelshare">取消分享</string>
+    <string name="more">更多</string>
+    <string name="hue">色相</string>
+    <string name="flip_h">水平翻转</string>
+    <string name="flip_v">垂直翻转</string>
+    <string name="show_onekey">一键显示</string>
+    <string name="theme_intro_use_tip">您已隐藏当前主题所有素材\n是否显示素材</string>
+    <string name="wifi_msg">当前下载内容较多，建议在WIFI环境下进行下载</string>
+    <string name="password_input_title">请输入密码</string>
+
+    <string name="check_sd_capacity">当前SD卡空间不足100M，为了避免使用中出现问题，请清理SD卡后再使用</string>
+
+
+    <string name="year">年</string>
+    <string name="month">月</string>
+    <string name="day">日</string>
+    <string name="log_in_sign_up">登录/注册</string>
+    <string name="updating">正在修改...</string>
+    <string name="uploading">正在上传...</string>
+    <string name="getting">正在获取...</string>
+    <string name="synchronizing">正在同步...</string>
+
+    <string name="login_next">下一步</string>
+    <string name="login_common">常用</string>
+    <string name="login_country">选择国家和地区</string>
+    <string name="login_register_tip">完善资料后，便可成功登录获取更多优质内容。</string>
+    <string name="login_basic_information">基本资料</string>
+    <string name="login_log_in">登录</string>
+    <string name="login_sign_up">注册账号</string>
+    <string name="login_password_forgotten">忘记密码</string>
+    <string name="login_get_code">获取验证码</string>
+    <string name="login_beauty_terms">注册即表示同意《美人信息用户使用协议》</string>
+    <string name="login_beauty_account">美人通行证账号可登录使用美人信息旗下所有APP</string>
+    <string name="login_password">密码</string>
+    <string name="login_mobile_number">手机号</string>
+    <string name="login_verification_code">验证码</string>
+    <string name="login_new_password">新密码</string>
+    <string name="login_get_code_again">重新获取</string>
+    <string name="userinfo_nickname">昵称</string>
+    <string name="userinfo_birth">生日</string>
+    <string name="userinfo_female">女</string>
+    <string name="userinfo_male">男</string>
+    <string name="userinfo_sex">性别</string>
+    <string name="userinfo_regin">地区</string>
+    <string name="userinfo_modify_password">修改密码</string>
+    <string name="userinfo_synchronized_watermark">同步水印</string>
+    <string name="userinfo_log_out">退出登录</string>
+    <string name="userinfo_original_password">原密码</string>
+    <string name="userinfo_avatar">个人头像</string>
+
+    <!-- toast -->
+    <string name="toast_network_net_connected">网络异常</string>
+    <string name="toast_time_out">同步超时</string>
+    <string name="toast_no_watermark">没有水印可同步</string>
+    <string name="toast_synchronizing_background">水印后台同步中</string>
+    <string name="toast_login_success">登录成功</string>
+    <string name="toast_synchronize_success">同步成功，您可以在“水印-我的”进行查看和使用</string>
+    <string name="toast_submit_avatar_success">头像上传成功！</string>
+    <string name="toast_modify_success">修改成功</string>
+    <string name="toast_send_code_success">验证码发送成功</string>
+    <string name="toast_modify_password_success">修改密码成功！</string>
+    <string name="toast_synchronize_failure">同步失败</string>
+    <string name="toast_login_failure">登录失败</string>
+    <string name="toast_modify_failure">修改失败</string>
+    <string name="toast_submit_info_failure">提交资料失败！</string>
+    <string name="toast_submit_avatar_failure">头像上传失败！</string>
+    <string name="toast_register_failure">注册失败，请稍后重试</string>
+    <string name="toast_modify_password_failure">修改密码失败</string>
+    <string name="toast_get_code_failure">获取验证码失败！</string>
+    <string name="toast_send_code_failure">发送失败，请稍后再试！</string>
+    <string name="toast_operate_error">操作失败</string>
+    <string name="toast_unknown_error">未知错误</string>
+    <string name="toast_code_error">验证码错误</string>
+    <string name="toast_password_error">密码错误</string>
+    <string name="toast_original_password_error">旧密码错误</string>
+    <string name="toast_param_error">参数错误</string>
+    <string name="toast_phone_rule_error">手机号格式不正确！请重新输入</string>
+    <string name="toast_password_rule_error">"密码长度必须在8-20位以内的字母、数字或符号！"</string>
+    <string name="toast_enter_code">请输入验证码</string>
+    <string name="toast_enter_zone">请选择国际区号</string>
+    <string name="toast_enter_correct_phone">请输入正确的手机号</string>
+    <string name="toast_enter_mobile_number">请输入手机号码！</string>
+    <string name="toast_enter_password">请输入密码！</string>
+    <string name="toast_enter_original_password">请输入原密码！</string>
+    <string name="toast_enter_nickname">请输入昵称</string>
+
+    <string name="toast_too_much_try_again">操作过于频繁，请稍后再试</string>
+    <string name="toast_relogin">您的账号信息发生变更，请重新登录</string>
+    <string name="toast_user_not_exist">用户不存在</string>
+    <string name="toast_phone_registered">该用户已被注册</string>
+    <string name="toast_phone_unregistered">手机号未注册</string>
+    <string name="toast_account_forbid">你的账号已被禁用</string>
+    <string name="toast_upload_avatar">请上传头像！</string>
+    <string name="toast_submitting_avatar">正在上传用户头像，请稍等！</string>
+    <string name="toast_nickname_null">昵称不能为空！</string>
+    <string name="toast_nickname_error">昵称不能含有空格！</string>
+
+    <string name="homepage_play">播放</string>
+    <string name="video_error_tip">播放失败</string>
+    <string name="watermark_sync_tip_title">登录账号可备份同步「我的」水印</string>
+    <string name="watermark_sync_tip_content">是否登录</string>
+    <string name="watermark_sync_save_tip_title">保存水印需要登录才能使用</string>
+    <string name="watermark_sync_save_tip_content">登录后可云端备份您的水印</string>
+    <string name="watermark_sync_tip_login">去登录</string>
+    <string name="watermark_sync_tip_cancel">否</string>
+
+    <string name="share_error_image_is_null">图片为空或不存在，请检查图片路径。</string>
+
+
+
+
+    <string name="video">视频</string>
+    <string name="vidoe_mode">高清模式</string>
+    <string name="delete_resource">删除</string>
+
+    <string name="choose_background_music">请选择背景音乐</string>
+    <string name="bk_music_off">关闭背景音乐</string>
+    <string name="bk_music_on">打开背景音乐</string>
+    <string name="music_choose">选择音乐</string>
+    <string name="video_volume">视频音量</string>
+    <string name="music_volume">音乐音量</string>
+
+    <!--修改文字页面-->
+    <string name="video_text_help">选中水印，可修改位置及文本</string>
+    <string name="video_text_watermark">水印</string>
+    <string name="video_text_idea">创意</string>
+    <string name="video_text">文字</string>
+    <string name="modify">修改</string>
+    <string name="display_mode">显示时段</string>
+    <string name="modifyText">修改文案</string>
+    <string name="emoji_tip">"不能含有Emoji表情"</string>
+    <string name="approach_sequenc">进场顺序</string>
+    <string name="play_control">播放控制</string>
+    <string name="text_start">开场</string>
+    <string name="text_whole">全场</string>
+    <string name="text_end">终场</string>
+    <string name="text_edit_tip">拖移滑块改变动画时间区间</string>
+    <string name="text_control_tip">点击调节持续时间</string>
+
+    <string name="watermarkSwitch">水印开关</string>
+    <string name="undetectable_music">检测不到音乐</string>
+    <string name="select_music">选择音乐</string>
+    <string name="recent_music">最近加入</string>
+    <string name="all_music">全部</string>
+
+    <string name="home_camera_tip">实时滤镜</string>
+
+    <!--视频相册-->
+    <string name="video_album">相卷</string>
+    <string name="video_next">下一步</string>
+    <string name="video_selected_time">共选时长 ：%s</string>
+    <string name="video_selected_num">已选%d个视频</string>
+    <string name="video_setting">视频设置</string>
+    <string name="video_setting_edition">选择剪辑方式</string>
+    <string name="video_setting_10s_mode">10s剪辑</string>
+    <string name="video_setting_10s_mode_tip">将片段平均剪裁，快速生成10s视频进行分享</string>
+    <string name="video_setting_free_mode">自由剪辑</string>
+    <string name="video_setting_free_mode_tip">专业编辑模式，随心制作你的片段故事</string>
+    <string name="video_setting_frame_tip">选择画幅</string>
+    <string name="video_setting_frame_square">方形画幅</string>
+    <string name="video_setting_frame_cinemascrope">电影画幅</string>
+    <string name="video_setting_frame_widescreen">宽画幅</string>
+    <string name="video_setting_frame_vertical_screen">竖画幅</string>
+    <string name="video_setting_confirm">确认，进入编辑</string>
+    <string name="all_video">视频选择</string>
+    <string name="video_album_empty_text">本地相册没有视频文件\n请用印象拍摄精彩瞬间</string>
+    <string name="press_to_select">点击选择视频</string>
+    <string name="press_to_preview">点击画面预览视频</string>
+    <!--<string name="long_press_to_preview">点击选择视频，即可进行视频处理。长按可预览该视频</string>-->
+    <string name="video_format_unsupported">不支持该视频格式</string>
+    <string name="video_ratio_unsupported">不支持该视频比例</string>
+    <string name="video_duration_invalid">请选择1秒到3分钟的视频</string>
+    <string name="video_too_large">超出时长限制，请重新选择</string>
+    <string name="video_audioTrack_absent">视频缺失音轨，请重新选择</string>
+    <string name="video_exceeded_limit">超出时长限制</string>
+    <string name="video_beyond_limit">所选视频数量不能超过10个</string>
+    <string name="video_picture">画幅</string>
+    <string name="video_selected">已选 %s</string>
+    <string name="video_available">可选 %s</string>
+
+    <!--视频模块文案-->
+
+    <string name="video_modify_failure">修改失败</string>
+
+    <!--视频主页-->
+    <string name="transitionEffect">转场效果</string>
+    <string name="applyToAllTransition">应用至所有转场</string>
+    <string name="clipVideo">裁剪</string>
+    <string name="canvasAdjust">画面</string>
+    <string name="filter">滤镜</string>
+    <string name="videoSpeed">速率</string>
+    <string name="videoSegmentation">分割</string>
+    <string name="videoCopy">复制</string>
+    <string name="videoDelete">删除</string>
+
+    <!--编辑视频-->
+    <string name="video_too_short">视频时长不足</string>
+    <string name="video_ten_seconds">时长:  10秒</string>
+    <string name="video_fifteen_seconds">时长:  15秒</string>
+    <string name="video_thirty_seconds">时长:  30秒</string>
+    <string name="video_free_style">时长:  全部</string>
+    <string name="loading_video_info">正在获取视频信息...</string>
+    <string name="video_edit">片段编辑</string>
+
+
+
+
+    <!-- 裁剪-->
+    <string name="exceedTimeLimit">超出时长限制</string>
+
+    <!--加速-->
+    <string name="video_frame_adjust_tip">双指缩放视频画面，可上下移动调整画面</string>
+    <string name="video_slow">慢</string>
+    <string name="video_fast">快</string>
+    <string name="video_upend">倒放</string>
+    <string name="video_fragment_duration">片段时长：</string>
+    <string name="video_speed_voice">关闭背景音乐</string>
+    <string name="video_speed_silence">变速时静音</string>
+
+
+    <!--复制视频-->
+    <string name="whetherToCopy">是否复制</string>
+    <string name="video_copy_limit">超出时长限制</string>
+
+    <!--分割视频-->
+    <string name="video_segmentation_introduce">拖动游标选择分割的时刻</string>
+
+    <!--删除视频-->
+    <string name="whetherDelete">是否删除</string>
+
+
+    <!--滤镜-->
+    <string name="orignVideo">原视频</string>
+    <string name="filter_tip">已对部分片段进行单独滤镜调整，\n若进行整体滤镜修改并确认，将覆\n盖您之前的滤镜效果</string>
+    <string name="filter_tip_close">永久关闭此提示</string>
+
+    <!-- 保存或分享 -->
+    <string name="video_saving">正在保存...</string>
+
+    <string name="exporting_share">生成分享中...</string>
+    <string name="circle_share_tip">在一起支持2秒以上的视频分享，请重新选择</string>
+
+    <!-- 视频编辑后退 -->
+    <string name="video_edit_back_title">退出视频编辑</string>
+    <string name="video_edit_back_message">是否放弃视频所有编辑</string>
+
+    <!--更新文案-->
+    <string name="version_updata_okBtn">好的</string>
+    <string name="version_updata_title1">自由录制多段视频</string>
+    <string name="version_updata_title2">自由拼接多组镜头</string>
+    <string name="version_updata_text1">印象支持长达3分钟的视频录制。\n边走边录，每一个街景及转角都能轻松记录。</string>
+    <string name="version_updata_text2">轻松组合您的相册视频，添加转场动效以衔接任意场景，同步修剪多组视频，让回忆学会说话。</string>
+
+    <string name="circle_unsupport_video">当前版本不支持分享视频，请安装最新版本的在一起</string>
+    <string name="share_video_weichat_title">我用 印象 创作了一部短片，快来看看</string>
+    <string name="short_audio">音频过短，不支持裁剪</string>
+
+    <string name="setting_botText">分享印象 定义自己的摄影方式</string>
+    <string name="setting_interphotp">2018 InterPhoto</string>
+    <string name="setting_remind_qq">请安装QQ客户端</string>
+    <string name="setting_remind_wechat">请安装微信客户端</string>
+    <string name="share_title">印象InterPhoto - 定义自己的摄影方式</string>
+    <string name="share_title_weibo">#印象InterPhoto# - 定义自己的摄影方式</string>
+
+    <string name="file_not_exist">文件不存在</string>
+    <string name="transition_none">无</string>
+    <string name="transition_overlay">交叉叠化</string>
+    <string name="transition_black">黑场过渡</string>
+    <string name="transition_white">白场过渡</string>
+    <string name="transition_fuzzy">模糊过渡</string>
+
+    <string name="material_management">素材管理</string>
+    <string name="material_management_music">音乐</string>>
+    <string name="material_store">素材商店</string>
+    <string name="management_video_watermark">水印</string>
+    <string name="management_photo_watermark">水印</string>
+    <string name="management_video_originality">创意</string>
+    <string name="managemnet_photo_attitude">态度</string>
+
+    <string name="mode10title">10秒模式</string>
+    <string name="mode10content">10秒模式将重置时长调整，并平均裁剪每段视频。是否切换？</string>
+    <string name="delete_video">删除当前视频</string>
+    <string name="video_trans">转场效果</string>
+
+    <string name="video_edit_help1">进入视频剪辑，可长按调整</string>
+    <string name="video_edit_help2">长按调整视频顺序</string>
+    <string name="video_edit_help3">点击切换转场动画</string>
+    <string name="video_clip">剪辑</string>
+
+    <string name="manage_delet_title">删除素材</string>
+    <string name="manage_delet">确认删除此素材</string>
+    <string name="video_tran_unavailable">时长不足</string>
+
+    <string name="permission_allow">允许</string>
+    <string name="permission_disAllow">不允许</string>
+    <string name="permission_camera">访问您的相机后，印象将使用相机进行拍照和录像</string>
+    <string name="permission_audio">访问您的麦克风后，印象将为您的视频录制声音</string>
+    <string name="permission_photo">访问您的相册后，美化后的照片和视频将保存到相册中</string>
+    <string name="permission_storage">访问本地存储后，下载后的素材可保存至本地</string>
+    <string name="permission_location">访问您的位置后，印象将为您的照片或视频写入位置信息</string>
+    <string name="permission_phone">访问您的电话后，可以帮助我们的开发者统计您的错误信息</string>
+
+    <string name="video_preview_hint">左右滑动画面快进或快退视频</string>
+    <string name="video_preview_select">选择</string>
+    <string name="video_preview_deselect">取消选择</string>
+
+    <string name="save_video_share_zaiyiqi">在一起</string>
+    <string name="save_video_share_pengyouquan">朋友圈</string>
+    <string name="save_video_share_weixinhaoyou">微信好友</string>
+    <string name="save_video_share_instagram">Instagram</string>
+    <string name="save_video_share_sina">新浪微博</string>
+    <string name="share_video_hint_save">正在保存 请勿退出</string>
+    <string name="share_video_goto_album">Back to Dalbum</string>
+    <string name="share_video_goto_camera">Back to Record</string>
+
+    <string name="share_video_finish">完成</string>
+    <string name="share_video_title">分享</string>
+    <string name="share_video_cancel_save">取消保存</string>
+    <string name="videologo_add_watermark">添加水印</string>
+    <string name="videologo_logo_style">水印样式</string>
+    <string name="videologo_hint_input">名字输入</string>
+    <string name="videologo_input_btn">请输入你的名字</string>
+
+    <string name="video_modify_failed">修改失败</string>
+
+
+</resources>

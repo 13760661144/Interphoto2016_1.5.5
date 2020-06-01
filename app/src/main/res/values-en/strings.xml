@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InterPhoto</string>
+    <string name="app_name_recommend">InterPhoto(recommend)</string>
+
+    <string name="facebook_app_id">822979784500181</string>
+    <string name="fb_login_protocol_scheme">fb822979784500181</string>
+    <string name="fb_app_name">InterPhoto</string>
+
+
+    <string name="coverWatermark">Cover to save</string>
+    <string name="createNewWatermark">Save as new</string>
+    <string name="modifyWatermarkTitle">Cover to save？</string>
+    <string name="music_mistake">An exception occurred while getting music information.</string>
+
+    <string name="ok">OK</string>
+    <string name="yes">YES</string>
+    <string name="no">No</string>
+    <string name="tip">Tip</string>
+    <string name="ok2">OK</string>
+
+    <!-- 首页 -->
+    <string name="homepage_photoes">Photo</string>
+    <string name="homepage_video">Video</string>
+    <string name="homepage_camera">Camera</string>
+    <string name="homepage_capture">Record</string>
+    <string name="homepage_retouch">Retouch</string>
+    <string name="homepage_amazing">Magazine</string>
+    <string name="homepage_edit">Edit</string>
+    <string name="homepage_material">Store</string>
+    <string name="homepage_apps">More Apps</string>
+    <string name="homepage_setting">Settings</string>
+    <string name="homepage_tuijian">More Apps</string>
+    <string name="homepage_Goodies">Goodies</string>
+    <string name="homepage_Special">Special</string>
+    <string name="homepage_jingtou">Camera</string>
+    <string name="homepage_qualityData">Photo</string>
+    <string name="homepage_addData">Add Date</string>
+    <string name="homepage_hightqulity">High Quality</string>
+    <string name="homepage_System">System</string>
+    <string name="homepage_About">About</string>
+    <string name="homepage_Feedback">Feedback</string>
+    <string name="homepage_rating">Rating &amp; Review</string>
+    <string name="setting_language">Language</string>
+
+    <string name="rule_password">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ\\|`¬!"£$¥€%^*()~=#{}[];':,./?/*-_+&#060;&#062;&#064;&#038;</string>
+
+    <!--String introText = "印象，\n献给热爱生活，\n刷新色彩的光影记录者。\n\n" +-->
+    <!--"不同的时间，不同的心情，\n不同的地点，不同的色温，不同的人...\n构成了你独特的作品。\n\n" +-->
+    <!--"创作之余，\n我们相信，\n你可以在这里，\n遇见更多丰富的内心。\n做一款应用和我们的印象电子杂志同名，\n见证10年。";-->
+
+
+    <string name="about_interphoto">InterPhoto,</string>
+    <string name="about_show1">\nFor those who enjoys and records their daily imaging life. \n\n</string>
+
+    <string name="about_show2"> Whatever times, moods,\n place, or colors, \nit collaborates to create your very unique artwork. \n\n</string>
+    <string name="about_show3">  In  the meantime. \nWe wish \nyou can come across and explore more photo with rich heart and soul. </string>
+    <string name="about_show4">\nTo build a app with our decade\'s photography experience. </string>
+
+    <!-- 相机 -->
+    <string name="Basic">Basic</string>
+    <string name="Food">Food</string>
+    <string name="Group">Group</string>
+    <string name="Landscape">Landscape</string>
+    <string name="usetutorial">Use tutorial</string>
+    <string name="canceltutorial">Cancel tutorial</string>
+    <string name="camera_size">Frame</string>
+    <string name="camera_flash">Flash</string>
+    <string name="camera_more">Settings</string>
+    <string name="camera_flash_auto">Auto</string>
+    <string name="camera_open">ON</string>
+    <string name="camera_close">OFF</string>
+    <string name="camera_touch_to_capture">Shoot</string>
+    <string name="camera_timer">Timer</string>
+    <string name="hide">Hide</string>
+    <string name="camerapage_check_record_permission">Please allow InterPhoto to access microphone in settings.</string>
+    <string name="camera_video_tip">Video Capture</string>
+
+    <string name="camera_first_teach">Photography Tutorial</string>
+    <string name="camera_first_more">Settings</string>
+    <string name="camera_first_filter">Filter selection</string>
+    <string name="camera_first_gesture">Swipe the filter left and right</string>
+    <string name="camera_first_shutter">Multiple videos record</string>
+    <string name="camera_first_settings">Video record settings</string>
+
+    <!-- 录像 -->
+    <string name="camera_snippet_title">Fragment</string>
+    <string name="camera_snippet_free">Free</string>
+    <string name="camera_duration">Duration</string>
+    <string name="camera_back_message">Give up recorded videos?</string>
+    <string name="camera_filter_original">Original</string>
+
+    <!-- 美化 -->
+    <string name="Filters">Filters</string>
+    <string name="Light">Light hits</string>
+    <string name="Theme_watermark">Text</string>
+    <string name="Watermark">Watermark</string>
+    <string name="Clip">Clip</string>
+    <string name="footage">Footage</string>
+    <string name="Music">Music</string>
+    <string name="Add">Add</string>
+    <string name="Saved">Saved</string>
+    <string name="Restore">Restore</string>
+    <string name="Copy">Copy</string>
+    <string name="Paste">Paste</string>
+    <string name="Mine">Mine</string>
+    <string name="Crop">Crop</string>
+    <string name="Rotate">Rotate</string>
+    <string name="ShareTo">ShareTo</string>
+    <string name="HorizontalCorrection">Horizontal correction</string>
+    <string name="VerticalCorrection">Vertical correction</string>
+    <string name="Exposure">Exposure</string>
+    <string name="Contrast">Contrast</string>
+    <string name="Temperature">Temperature</string>
+    <string name="Saturation">Saturation</string>
+    <string name="Sharpness">Sharpness</string>
+    <string name="Clarity">Clarity</string>
+    <string name="Highlight">Highlight</string>
+    <string name="Shadow">Shadow</string>
+    <string name="Tone">Tone</string>
+    <string name="Vignette">Vignette</string>
+    <string name="Grain">Grain</string>
+    <string name="Fade">Fade</string>
+    <string name="Curve">Curve</string>
+    <string name="Beauty">Skin tone</string>
+    <string name="Adjust">Adjust</string>
+    <string name="lightTips">Light hits can move by one finger</string>
+    <string name="lightTips1">Light hits can rotate by two fingers</string>
+    <string name="lightTips2">Light hits can zoom in or out by two fingers</string>
+    <string name="watermark">Photo</string>
+    <string name="Attitude">Attitude</string>
+    <string name="idea">Idea</string>
+
+    <string name="photo_attitude">Attitude</string>
+    <string name="photo_watermark">Watermark</string>
+    <string name="video_originality">Originality</string>
+
+
+    <string name="Color">Color</string>
+    <string name="Shadow1">Shadow</string>
+    <string name="Opacity">Opacity</string>
+    <!--<string name="not">No</string>-->
+    <!--<string name="continueYes">Yes</string>-->
+    <!--<string name="tryLater">Try it later</string>-->
+    <!--<string name="networkTimeout">Network Timeout</string>-->
+    <!--<string name="haode">OK</string>-->
+    <!--<string name="downloadfialTips">Downloading failed. Continue or not?</string>-->
+    <!--<string name="photofontError">Photo path format error!</string>-->
+    <!--<string name="saveError">Save error</string>-->
+    <!--<string name="saveError1">Save error</string>-->
+    <!--<string name="NoImage">No image</string>-->
+    <!--<string name="ShareSuccessful">Share Successful</string>-->
+    <!--<string name="ShareCanceled">Share Canceled</string>-->
+    <!--<string name="Sharefailed">Share failed, try it again?</string>-->
+    <!--<string name="SomethingWrong">Something is Wrong</string>-->
+    <string name="Moments">Moments</string>
+    <string name="Wechat">Wechat</string>
+    <string name="Sina">Sina</string>
+    <string name="QQZone">QQ Zone</string>
+    <string name="Circle">Circle</string>
+    <string name="Save">Save</string>
+    <string name="Delete">Delete</string>
+    <string name="viaInterPhoto">via InterPhoto</string>
+    <string name="UnlockSuccessful">Unlock Successful</string>
+
+    <string name="needDownedTips1">Need to download extra fonts&#160;</string>
+    <string name="needDownedTips2">M to edit text</string>
+    <string name="needFontDownedTips3">You need to download a font before editing, or use the default font.</string>
+
+    <string name="deletewatermark">Delete watermark</string>
+    <string name="isDeletemarkTips">Delete %s&#063;</string>
+    <string name="delete">Delete</string>
+
+
+    <!--"  可通过PC登陆网站" + linkUrl + "上传\n  专属水印，获得下载ID\n";-->
+
+    <!--<string name="tipsuploadPc">you can visit\n %s \nto upload your diy watermark and get download id</string>-->
+
+
+    <!--<string name="tipsIDLength">Tip: ID has 8 numbers</string>-->
+    <!--<string name="tipsIDagaint">Your ID is incorrect, please type in again</string>-->
+    <string name="createwatermarkName">Save watermark to “Mine” and name it </string>
+    <!--<string name="renameWatermark">Please rename your watermark</string>-->
+    <!--<string name="renameOver">This name already existed, please rename it</string>-->
+    <!--<string name="repeateName">Repeated name</string>-->
+
+    <string name="diyLogo">DIY Logo</string>
+    <string name="tipsimportPhoto1">You can import your DIY watermark\n via  pc web side or local photos</string>
+    <string name="Downloading">Downloading</string>
+
+    <string name="doubleClickChange">Double click filter to change the opacity</string>
+    <string name="tipscontrolPoint">Click and add an control point. Long press to delete it.</string>
+    <string name="tipsAddwaterMark">Add watermark and click the icon on the top right to save it</string>
+    <string name="Done">Done</string>
+    <!--<string name="installwechatTips">Please install wechat before sharing</string>-->
+    <!--<string name="installfacebookTips">Please install facebook before sharing</string>-->
+    <!--<string name="noPermissionTips">No permission to access the system album, please authorize in  System Settings “Settings -> Privacy -> Locations“ to switch it to “ON“ </string>-->
+    <!--<string name="Select">Select</string>-->
+    <!--<string name="Store">Store</string>-->
+    <!--<string name="NoNetwork">No network</string>-->
+    <!--&lt;!&ndash;<string name="">Please install facebook before sharing</string>&ndash;&gt;-->
+    <string name="installInstagramTips">Please install Instagram before sharing</string>
+    <string name="installCircleTips">Please install Circle before sharing</string>
+    <!--<string name="loginTips">Please login</string>-->
+    <string name="confirmTounlinkQQ">Confirm to unlink QQ？</string>
+    <string name="Isee">I see</string>
+    <string name="checkNetworkTips">Please check the network</string>
+    <string name="networkError">Network Error</string>
+    <!--<string name="Beautify">Beautify</string>-->
+    <!--<string name="saveFailTips">-_- save photo failed\n Please go to System Settings “Settings -> Privacy -> Photos“ to check the permissions, switch it to “ON“!  Or not enough space on your device.</string>-->
+    <!--<string name="saveFail">Share failed</string>-->
+
+    <string name="autoLanguage">Auto</string>
+    <string name="chinaLanguage">中文</string>
+    <string name="englishLanguage">English</string>
+
+    <string name="deleteItemTips">"Confirm to delete it?"</string>
+    <string name="shuttertext">Silent Shutter</string>
+    <string name="ImportedText">Imported</string>
+    <string name="Cancel">Cancel</string>
+    <string name="filterLearnTips">Learn photo filter skill from Master`s introduction.</string>
+    <string name="openBrowserFailed">Open Browser Failed</string>
+    <string name="deleteAndRename">Long press to delete or rename the watermark</string>
+    <string name="saving">Saving</string>
+    <string name="pasting">pasting</string>
+    <string name="deletedSuccess">Deleted</string>
+    <string name="Linked">Linked</string>
+    <string name="selectPhotoAgain">The photo does not exist, please select another one.</string>
+    <string name="added">Added</string>
+    <string name="addFailed">Add Failed</string>
+    <string name="downloadFailed">Download Failed</string>
+    <string name="deletePhoto">Delete Photo</string>
+    <string name="installplayStoreTips">Please install play store before use.</string>
+    <string name="shareToWechat">Share on Wechat Moments</string>
+    <string name="unlock">unlock</string>
+    <string name="shareToWechatuseTips">Share on Wechat Moments to unlock package.</string>
+    <string name="canuseTips">Rate us in app store can use new content</string>
+    <string name="unlockfilterTips">Share on Moments to unlock filter</string>
+    <string name="uplocklightTips">Share on Moments to unlock light hits</string>
+    <string name="shareToUnlockVideoTextTips">Share to Wechat and download this effect</string>
+    <string name="unlockVideoTextTips">Rate us on App Store.</string>
+    <string name="unlockFailed">Unlock Failed</string>
+    <string name="addNow">”Add Now</string>
+    <string name="cameraPermissionLimit">Camera permission limited</string>
+    <string name="cameraNotCanOpenTips">Camera can’t start, Please check camera permission setting in the system or other security app.\nPlease turn on Camera Access and restart Interphoto.</string>
+    <!--<string name="openPermissionTips">Please turn on Camera Access and restart Interphoto.</string>-->
+    <string name="openPermissionMethod">Introduction to turn on Camera Access</string>
+    <string name="startPictures">Start taking pictures</string>
+    <string name="cameraErrorTips">Camera error, \n please close and restart this page.</string>
+
+    <string name="lensCorrectionTips">Lens Correction</string>
+    <string name="keepPhoneVerticalTips">Please keep your phone vertical \n and click to start the Lens Correction</string>
+    <string name="cameraAdjusting">camera adjusting</string>
+    <string name="PleasekeepPhoneVericalTips">Please keep the phone vertical</string>
+    <string name="lensDirectionCorrectedTips">Is the lens direction corrected? </string>
+    <string name="correct">Correct</string>
+    <string name="A">Done</string>
+    <string name="Exit">Exit</string>
+    <string name="pressAgainToExit">press the return button again to exit InterPhoto</string>
+
+    <string name="deletingPhotos">Deleting photos...0/</string>
+    <string name="deletingPhotosOther">Deleting photos...</string>
+    <string name="nothingMore">nothing more</string>
+    <string name="downloadFailedTips">download failed</string>
+    <string name="photoDeleted">photo deleted</string>
+    <string name="loadPhotoFailed">load photo failed</string>
+    <string name="photos">photos</string>
+    <string name="OtherAlbums">albums</string>
+    <string name="SelectAlbums">select albums</string>
+    <string name="MultipleSelection">Multiple selection, 0 photo selected</string>
+    <string name="startImageStitching">start image stitching</string>
+    <string name="InsertAPhoto">Insert a photo</string>
+    <string name="PhotoNotExist">photo does not exist</string>
+    <string name="sureAdd">yes</string>
+    <string name="alreaySelectedPhotoTips">This photo already selected. Add it again? </string>
+    <!--<string name="photosSeletedTips">n photos selected</string>-->
+    <string name="notSupportedTips">Image Scale not supported</string>
+    <string name="InvalidImgeTips">Invalid image, your photo might be deleted</string>
+    <string name="MultipleSelection1">Multiple selection,</string>
+    <string name="MultipleSelection2">photos selected</string>
+
+
+    <string name="curSelect">selected</string>
+    <string name="tipsText1">photos (maximum</string>
+    <string name="tipsText2">photos</string>
+    <string name="leastPhoto1">choose at least</string>
+    <string name="leastPhoto2">photo</string>
+
+    <string name="PullDownToRefresh">Pull down to refresh</string>
+    <string name="releaseToRefresh">release to refresh</string>
+    <string name="refreshing">refreshing</string>
+
+    <string name="refreshFinished">refresh finished</string>
+    <string name="lastUpdated">Last updated</string>
+    <string name="lensCorrection">Lens Correction</string>
+    <string name="account">Account</string>
+    <string name="alreadyBoundTips">This account has already bound. Do you want to unbind it? </string>
+    <string name="LinkSinaWeiboFailed">Link Sina Weibo failed</string>
+    <string name="installSinaWeiboTips">Please install Sina Weibo before linking</string>
+    <string name="installFacebookTips">Please install Facebook before sharing</string>
+    <string name="installTwitterTips">Please install Twitter before sharing</string>
+    <string name="installQQTips">Please install QQ before linking</string>
+    <string name="boundQQZoneFailed">Link QQ Zone failed </string>
+    <string name="updateImmediately">update immediately</string>
+    <string name="MoreDetails">More details</string>
+    <string name="skip">skip</string>
+    <string name="album">Album</string>
+    <string name="xiangji">Camera</string>
+    <string name="selectSources">Select sources</string>
+    <string name="selectPhotos">select photos</string>
+    <string name="shareFailed">share failed</string>
+    <string name="FromInterphoto">From Interphoto</string>
+    <string name="accessDataFailed">access data failed</string>
+    <string name="sending">Sending</string>
+    <string name="facebook_client_start_fail">Open Facebook failed, please confirm Facebook is running and then try to send</string>
+    <string name="facebook_client_call">Waiting for Facebook...</string>
+
+    <!-- 视频分享 -->
+    <string name="share_to_wechat_client_tip">Please install Wechat before sharing</string>
+    <string name="open_wechat_tip">Please choose the video in albums and post it on Wechat moments.</string>
+    <string name="open_wechat_ok">Go to Wechat</string>
+    <string name="delete_resource">delete</string>
+
+    <string name="photosSeletedTips1">choose at least </string>
+    <string name="photosSeletedTips2"> photo</string>
+    <string name="download">download</string>
+    <string name="continuetext">continue</string>
+
+
+    <string name="photocorrection">Photo orientation correction</string>
+    <string name="isorientationcorrect">Is this orientation correct?</string>
+    <string name="contentNotbeempty">Content can not be empty</string>
+    <string name="mustSelectOnepicture">Must select one picture</string>
+    <string name="huanyuan">restore</string>
+
+    <string name="share_success">share success</string>
+    <string name="oriphoto">Original</string>
+    <string name="Linking">Linking</string>
+    <string name="restore_tip">This action will clear the effect you\'ve made. \nChoose the effect you want to restore.</string>
+    <string name="restore_last">Undo</string>
+    <string name="restore_org">Original</string>
+    <string name="processing">processing</string>
+    <string name="clickHideOrDragOrder">Click "hideI" to hide or change the order by dragging "dragI"</string>
+
+    <!-- Album -->
+    <string name="albums">Albums</string>
+    <string name="select">Select</string>
+    <string name="Continue">Next</string>
+    <string name="deleting">loading...</string>
+    <plurals name="photo_selected">
+        <item quantity="zero">%d photo selected</item>
+        <item quantity="one">%d photo selected</item>
+        <item quantity="other">%d photos selected</item>
+    </plurals>
+
+    <plurals name="photo_unsaved">
+        <item quantity="zero">%d photo unsaved</item>
+        <item quantity="one">%d photo unsaved</item>
+        <item quantity="other">%d photos unsaved</item>
+    </plurals>
+
+    <plurals name="ensure_delete">
+        <item quantity="one">%d photo will be deleted</item>
+        <item quantity="other">%d photos will be deleted</item>
+    </plurals>
+
+    <string name="optimize_memory">Optimize space</string>
+    <string name="optimize_memory_completed">Optimize space completed</string>
+    <string name="calculating_cache">Calculating space</string>
+    <string name="total_volume">%s Storage</string>
+    <string name="has_scan">%d%% scanned</string>
+    <string name="interphoto_memory">InterPhoto using %s</string>
+    <string name="left_memory">%s available</string>
+    <string name="no_enough_memory">Your phone storage is less than 250MB. Please remove cache before editing your photos.</string>
+    <string name="check_memory">Manage storage</string>
+    <string name="clear_interphoto">Clear cache</string>
+    <string name="can_not_open_memory_page">Failed</string>
+    <string name="clear_cache_page_tip1">InterPhoto can manage your storage, making it easier for photo editing and avoiding unnecessary data usage.</string>
+    <string name="clear_cache_page_tip2">If you need more storage, please save unsaved photo from \'InterPhoto\' album to release space.</string>
+    <string name="clear_cache_page_tip3">Or click \'Remove cache\' button, so it will remove historical editions of all photos.</string>
+    <string name="interphoto_cache">InterPhoto Storage</string>
+    <string name="interphoto_cache_percent">InterPhoto using %.2f%% of storage</string>
+    <string name="clearing_cache">loading...</string>
+    <string name="clear_cache">Clear cache</string>
+    <string name="clear_cache_completed">Cache removed</string>
+
+    <string name="tip_continue">Paste will overlay current effect.\nContinue or not?</string>
+    <string name="processing_tip">Processing...</string>
+    <string name="app_album_empty_tip">Choose one photo and start your InterPhoto creative journey.</string>
+    <string name="system_album_empty_tip">This album is empty.</string>
+
+    <string name="mgr_unlock">Share to Wechat and download this effect</string>
+    <string name="fileter_help_anim_tips3">Press and drag the filter to sort or hide</string>
+    <string name="QQ">QQ</string>
+    <string name="theme_use">Done</string>
+    <string name="download_continue">Download</string>
+    <string name="download_now">"Download "</string>
+    <string name="theme_download">Download</string>
+    <string name="downloading">"Downloading "</string>
+    <string name="use_now">"Try it! "</string>
+    <string name="Ooops">Ooops！NewYork Error.</string>
+    <string name="themeUnlockFriend">"Share to Wechat and download this effect "</string>
+    <string name="cancelshare">Cancel Share</string>
+    <string name="more">More</string>
+    <string name="hue">hue</string>
+    <string name="flip_h">flip horizontal</string>
+    <string name="flip_v">flip vertical</string>
+    <string name="show_onekey">Display</string>
+    <string name="theme_intro_use_tip">Content is currently hidden. \nWant to display them?</string>
+    <string name="wifi_msg">This pack contain large size content. \nRecommend to download it with WIFI connection. </string>
+    <string name="password_input_title">please input password</string>
+
+    <string name="check_sd_capacity">There is not enough storage space in SD card, in order to avoid problems in use, please manage your storage.</string>
+
+    <string name="year">年</string>
+    <string name="month">月</string>
+    <string name="day">日</string>
+    <string name="log_in_sign_up">Log in/Sign up</string>
+    <string name="updating">Modifying...</string>
+    <string name="uploading">Uploading...</string>
+    <string name="getting">Sending...</string>
+    <string name="synchronizing">Synchronizing...</string>
+
+    <string name="login_next">Next</string>
+    <string name="login_common">Popular</string>
+    <string name="login_country">Countries &amp; Regions</string>
+    <string name="login_register_tip">Success！Complete your information for more quality contents.</string>
+    <string name="login_basic_information">Information</string>
+    <string name="login_log_in">Log in</string>
+    <string name="login_sign_up">Sign up</string>
+    <string name="login_password_forgotten">Password forgotten</string>
+    <string name="login_get_code">Get code</string>
+    <string name="login_beauty_terms">By signing up you accept Beauty Terms of service.</string>
+    <string name="login_beauty_account">Beauty account can be access all other apps under Beauty Inc.</string>
+    <string name="login_password">Password</string>
+    <string name="login_mobile_number">Mobile number</string>
+    <string name="login_verification_code">Code</string>
+    <string name="login_new_password">New password</string>
+    <string name="login_get_code_again">Retrieve</string>
+    <string name="userinfo_nickname">Name</string>
+    <string name="userinfo_birth">Birthday</string>
+    <string name="userinfo_female">Female</string>
+    <string name="userinfo_male">Male</string>
+    <string name="userinfo_sex">Gender</string>
+    <string name="userinfo_regin">Region</string>
+    <string name="userinfo_modify_password">Change password</string>
+    <string name="userinfo_synchronized_watermark">Synchronized watermark</string>
+    <string name="userinfo_log_out">Log out</string>
+    <string name="userinfo_original_password">Original password</string>
+    <string name="userinfo_avatar">Profile</string>
+
+    <!-- toast -->
+    <string name="toast_network_net_connected">Network Error</string>
+    <string name="toast_time_out">Synchronization timed out.</string>
+    <string name="toast_no_watermark">Synchronization ended.</string>
+    <string name="toast_synchronizing_background">Background synchronization.</string>
+    <string name="toast_login_success">Log in successfully</string>
+    <string name="toast_submit_avatar_success">Upload successfully</string>
+    <string name="toast_modify_success">Modify successfully</string>
+    <string name="toast_send_code_success">Verification code sent successfully</string>
+    <string name="toast_modify_password_success">Password modified successfully</string>
+    <string name="toast_synchronize_success">Synchronization succeeded. Please check and use them in \'Watermark - Mine\'.</string>
+    <string name="toast_synchronize_failure">Synchronization failed</string>
+    <string name="toast_login_failure">Log in failed</string>
+    <string name="toast_modify_failure">Modify failed</string>
+    <string name="toast_submit_info_failure">Submit failed</string>
+    <string name="toast_submit_avatar_failure">Upload failed</string>
+    <string name="toast_register_failure">Sign in failed, please try again later.</string>
+    <string name="toast_modify_password_failure">Modify failed</string>
+    <string name="toast_get_code_failure">Failed to get code</string>
+    <string name="toast_send_code_failure">Failed, please try again later.</string>
+    <string name="toast_operate_error">Error</string>
+    <string name="toast_unknown_error">Unknown Error</string>
+    <string name="toast_code_error">Code error</string>
+    <string name="toast_password_error">Password error</string>
+    <string name="toast_original_password_error">Original password error</string>
+    <string name="toast_param_error">Parameter error</string>
+    <string name="toast_phone_rule_error">Wrong mobile number format. Please try again.</string>
+    <string name="toast_password_rule_error">The length of your password must be within 8 to 20 letter、numbers or symbols.</string>
+    <string name="toast_enter_code">Please enter Verification code</string>
+    <string name="toast_enter_zone">International code</string>
+    <string name="toast_enter_correct_phone">Please enter correct mobile number</string>
+    <string name="toast_enter_mobile_number">Please enter your mobile number</string>
+    <string name="toast_enter_password">Please enter your password</string>
+    <string name="toast_enter_original_password">Please enter original password</string>
+    <string name="toast_enter_nickname">Please enter your nickname</string>
+
+    <string name="toast_too_much_try_again">Operation too frequently, please try again later.</string>
+    <string name="toast_relogin">Your user-info has changed, please log in again.</string>
+    <string name="toast_user_not_exist">Account not exist</string>
+    <string name="toast_phone_registered">Account existed</string>
+    <string name="toast_phone_unregistered">This mobile number is not registered.</string>
+    <string name="toast_account_forbid">This account has been disabled.</string>
+    <string name="toast_upload_avatar">Please upload profile.</string>
+    <string name="toast_submitting_avatar">Uploading profile, please wait for a while.</string>
+    <string name="toast_nickname_null">Please enter your nickname</string>
+    <string name="toast_nickname_error">Cannot contain Spaces</string>
+
+    <string name="homepage_play">play</string>
+    <string name="cloud_album">\"\"</string>
+    <string name="cloud_album_auto_save">\"\"</string>
+    <string name="cloud_album_used_volume">\"\"</string>
+    <string name="video_error_tip">error</string>
+    <string name="homepage_clear_sys_buffer">Clear Cache</string>
+    <string name="texthelpanim1">Split and assemble watermark by clicking the bottom left button or long pressing them</string>
+    <string name="texthelpanim2">Press the top right button and save the watermark into my favorite list</string>
+    <string name="watermark_sync_tip_title">You can back up all watermarks in "Mine".</string>
+    <string name="watermark_sync_tip_content">Log in or not</string>
+    <string name="watermark_sync_save_tip_title">Log in to save and back up your watermarks.</string>
+    <string name="watermark_sync_save_tip_content">Log in to back up all your watermarks.</string>
+    <string name="watermark_sync_tip_login">Log in</string>
+    <string name="watermark_sync_tip_cancel">Cancel</string>
+
+    <string name="share_error_image_is_null">Picture not exist.</string>
+
+
+    <!-- 视频模块-->
+    <string name="video">MyVideo</string>
+    <string name="vidoe_mode">High Quality</string>
+    <string name="video_modify_failed">Modify failed</string>
+
+    <!--视频相册-->
+    <string name="video_album">videos</string>
+    <string name="video_next">Next</string>
+    <string name="video_selected_time">%s selected</string>
+    <string name="video_selected_num">%d videos selected</string>
+    <string name="all_video">Select videos</string>
+    <string name="press_to_select">Click to select a video</string>
+    <string name="press_to_preview">Click to preview a video</string>
+    <string name="video_album_empty_text">No video resource\nUse InterPhoto to make a great video</string>
+    <string name="video_format_unsupported">Unavailable specification</string>
+    <string name="video_ratio_unsupported">Unavailable specification</string>
+    <string name="video_duration_invalid">Unavailable duration</string>
+    <string name="video_too_large">Exceeded limit, please select again.</string>
+    <string name="video_audioTrack_absent">Video track is missing, please select again.</string>
+    <string name="video_exceeded_limit">Exceeded limit</string>
+    <string name="video_beyond_limit">Please select less than 11 videos.</string>
+    <string name="video_picture">Frame</string>
+    <string name="video_selected">%s selected</string>
+    <string name="video_available">%s available</string>
+    <!--视频设置-->
+    <string name="video_setting">Settings</string>
+    <string name="video_setting_edition">Edition</string>
+    <string name="video_setting_10s_mode">10s Mode</string>
+    <string name="video_setting_10s_mode_tip">InterPhoto will clip each video automatically. You can trim them once again.</string>
+    <string name="video_setting_free_mode">Free Mode</string>
+    <string name="video_setting_free_mode_tip">You can use this editing mode to clip videos to a complete story.</string>
+    <string name="video_setting_frame_tip">Frame</string>
+    <string name="video_setting_frame_square">Frame</string>
+    <string name="video_setting_frame_cinemascrope">Cinemascrope</string>
+    <string name="video_setting_frame_widescreen">Widescreen</string>
+    <string name="video_setting_frame_vertical_screen">Vertical screen</string>
+    <string name="video_setting_confirm">Confirm! Let’s start editing!</string>
+
+
+    <!--视频主页-->
+    <string name="transitionEffect">Transition</string>
+    <string name="clipVideo">Clip</string>
+    <string name="canvasAdjust">Scale</string>
+    <string name="filter">Filter</string>
+    <string name="videoSpeed">Rate</string>
+    <string name="videoSegmentation">Split</string>
+    <string name="videoCopy">Copy</string>
+    <string name="videoDelete">Delete</string>
+
+    <!--编辑视频-->
+    <string name="video_too_short">Unavailable duration</string>
+    <string name="video_ten_seconds">Mode : 10s</string>
+    <string name="video_fifteen_seconds">Mode : 15s</string>
+    <string name="video_thirty_seconds">Mode : 30s</string>
+    <string name="video_free_style">Mode : Free</string>
+    <string name="loading_video_info">Loading...</string>
+    <string name="applyToAllTransition">Apply to all videos</string>
+    <string name="video_edit">Edit</string>
+
+    <!-- 裁剪-->
+    <string name="exceedTimeLimit">The total duration limits to 3 minutes.</string>
+    <!--<string name="video_crop_failure">Crop failure</string>-->
+
+    <!--复制视频-->
+    <string name="whetherToCopy">Copy the video</string>
+    <!--<string name="video_copy_limit">超出时长限制</string>-->
+    <string name="video_copy_limit">The total duration limits to 3 minutes.</string>
+
+    <!--分割视频-->
+    <string name="video_segmentation_introduce">Drag cursor to ajust split moment</string>
+
+    <!--删除视频-->
+    <string name="whetherDelete">Delete the video</string>
+
+
+    <!--滤镜-->
+    <!--<string name="orignVideo">原视频</string>Asset Store-->
+    <string name="filter_tip">InterPhoto will replace your previous\nfilter preferences. Continue to change them?</string>
+    <string name="filter_tip_close">Don\'t remind me.</string>
+
+    <!--加速-->
+    <string name="video_frame_adjust_tip">Pinch to scale video</string>
+    <string name="video_slow">Slow</string>
+    <string name="video_fast">Fast</string>
+    <string name="video_upend">Upend</string>
+    <string name="video_fragment_duration">Duration：</string>
+    <string name="video_speed_silence">Sound</string>
+
+    <!--音乐-->
+    <string name="choose_background_music">please select a background music</string>
+    <string name="bk_music_off">Sound ON</string>
+    <string name="bk_music_on">Sound OFF</string>
+    <string name="music_choose">Choose Music</string>
+    <string name="video_volume">Original video volume</string>
+    <string name="music_volume">Music volume</string>
+
+
+
+    <!--修改文字页面-->
+    <string name="video_text_help">Click the button to modify it</string>
+    <string name="video_text_watermark">Watermark</string>
+    <string name="video_text_idea">Idea</string>
+    <string name="video_text">Text</string>
+    <string name="modify">Modify</string>
+    <string name="display_mode">Timing</string>
+    <string name="modifyText">Text</string>
+    <string name="emoji_tip">Emoji unsupported.</string>
+    <string name="approach_sequenc">Timing</string>
+    <string name="play_control">Controller</string>
+    <string name="text_start">Opening</string>
+    <string name="text_whole">Full</string>
+    <string name="text_end">Closing</string>
+    <string name="text_edit_tip">Hold and drag cursor to change timing</string>
+    <string name="text_control_tip">Change Timing</string>
+
+    <string name="undetectable_music">No resource.</string>
+    <string name="select_music">Music</string>
+    <string name="recent_music">Recent</string>
+    <string name="all_music">All</string>
+
+    <string name="home_camera_tip">Live Filter</string>
+    <string name="orignVideo">Original</string>
+    <string name="watermarkSwitch">Toggle</string>
+
+    <!-- 保存或分享 -->
+    <string name="video_saving">Saving...</string>
+
+    <string name="exporting_share">Exporting...</string>
+    <string name="circle_share_tip">Circle supports sharing more than 2 seconds video. Please select again.</string>
+
+    <!-- 视频编辑后退 -->
+    <string name="video_edit_back_title">Attention</string>
+    <string name="video_edit_back_message">Give up all video edits?</string>
+
+    <!--更新文案-->
+    <string name="version_updata_okBtn">OK</string>
+    <string name="version_updata_title1">Record Multiple Videos</string>
+    <string name="version_updata_title2">Combine Multiple Scenes</string>
+    <string name="version_updata_text1">InterPhoto supports 3 minutes video recording. Every street scene and corner can be captured easily while walking.</string>
+    <string name="version_updata_text2">Trim multiple videos and add any transition to scenes. All your memories learn breathing.</string>
+
+    <string name="circle_unsupport_video">It\'\s Unsupport Circle in this version, Please install the latest version</string>
+    <string name="share_video_weichat_title">I created a short video with InterPhoto.</string>
+    <string name="short_audio">Unavailavle duration.</string>
+
+
+    <string name="setting_botText">Share InterPhoto. Define your Photography.</string>
+    <string name="setting_interphotp">2018 InterPhoto</string>
+    <string name="setting_remind_qq">Please install QQ beforesharing</string>
+    <string name="setting_remind_wechat">Please install WeChat beforesharing</string>
+    <string name="share_title">InterPhoto - More than Photography.</string>
+    <string name="share_title_weibo"> #InterPhoto# - More than Photography.</string>
+
+    <string name="file_not_exist">the file is not exist</string>
+    <string name="material_management">Management</string>
+    <string name="material_management_music">Music</string>>
+    <string name="material_store">Store</string>
+    <string name="management_video_watermark">Watermark</string>
+    <string name="management_video_originality">Idea</string>
+    <string name="managemnet_photo_attitude">Attitude</string>
+    <string name="management_photo_watermark">Watermark</string>
+
+    <string name="transition_none">None</string>
+    <string name="transition_overlay">Dissolve</string>
+    <string name="transition_black">Fade B</string>
+    <string name="transition_white">Fade W</string>
+    <string name="transition_fuzzy">Blur</string>
+
+    <string name="mode10title">10 seconds mode</string>
+    <string name="mode10content">Switch to this mode, InterPhoto will reassign each video to the average</string>
+    <string name="delete_video">delete this video</string>
+    <string name="video_trans">Transition</string>
+
+    <string name="video_edit_help1">Long press to capture the moment you need.</string>
+    <string name="video_edit_help2">Long press to sort videos.</string>
+    <string name="video_edit_help3">Click to edit transition.</string>
+    <string name="video_watermark">Video</string>
+    <string name="video_clip">Clip</string>
+
+    <string name="manage_delet_title">Delete</string>
+    <string name="manage_delet">Delete this material?</string>
+
+
+    <string name="video_tran_unavailable">Unavailable duration</string>
+
+    <string name="permission_allow">Allow</string>
+    <string name="permission_disAllow">DisAllow</string>
+    <string name="permission_camera">Your camera is used to take photos and camera.</string>
+    <string name="permission_audio">Your microphone is used to record sounds.</string>
+    <string name="permission_photo">Photos is used to save and share photos and videos.</string>
+    <string name="permission_storage">Storage is used to save materials.</string>
+    <string name="permission_location">This allows InterPhoto access to your current location for saving location data in photos and videos.</string>
+    <string name="permission_phone">This allows InterPhoto access to your phone state for our engineer to solve bug you has get.</string>
+
+
+    <string name="video_preview_hint">Swipe left or right to fast-forward or rewind</string>
+    <string name="video_preview_select">Select</string>
+    <string name="video_preview_deselect">Deselect</string>
+
+    <string name="save_video_share_zaiyiqi">Circle</string>
+    <string name="save_video_share_pengyouquan">Moments</string>
+    <string name="save_video_share_weixinhaoyou">Wechat</string>
+    <string name="save_video_share_instagram">Instagram</string>
+    <string name="share_video_finish">Finish</string>
+    <string name="save_video_share_sina">Sina</string>
+    <string name="share_video_hint_save">Please don\'t quit while saving.</string>
+    <string name="share_video_goto_album">Back to Dalbum</string>
+    <string name="share_video_goto_camera">Back to Record</string>
+    <string name="share_video_title">Share</string>
+
+    <string name="videologo_add_watermark">Add a watermark</string>
+    <string name="videologo_logo_style">Style</string>
+    <string name="videologo_hint_input">Add a watermark</string>
+    <string name="videologo_input_btn">Add a watermark</string>
+
+</resources>

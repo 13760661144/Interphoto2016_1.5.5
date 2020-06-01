@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Interphoto2016_1.5.5.iml" filepath="$PROJECT_DIR$/Interphoto2016_1.5.5.iml" group="Interphoto2016_1.5.5" />
+      <module fileurl="file://$PROJECT_DIR$/../AdMasterLibs2017/admasterlibs/admasterlibs.iml" filepath="$PROJECT_DIR$/../AdMasterLibs2017/admasterlibs/admasterlibs.iml" group="Interphoto2016_1.5.5/admasterlibs" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Interphoto2016_1.5.5/app" />
+      <module fileurl="file://$PROJECT_DIR$/../BlogLibs2016/bloglibs/bloglibs.iml" filepath="$PROJECT_DIR$/../BlogLibs2016/bloglibs/bloglibs.iml" group="Interphoto2016_1.5.5/bloglibs" />
+      <module fileurl="file://$PROJECT_DIR$/../Camera2016/cameralibs.iml" filepath="$PROJECT_DIR$/../Camera2016/cameralibs.iml" group="Interphoto2016_1.5.5/cameralibs" />
+      <module fileurl="file://$PROJECT_DIR$/../LoginSystem2016/loginlibs/loginlibs.iml" filepath="$PROJECT_DIR$/../LoginSystem2016/loginlibs/loginlibs.iml" group="Interphoto2016_1.5.5/loginlibs" />
+      <module fileurl="file://$PROJECT_DIR$/../PhotoDatabase2016/photodatabaselib2016/photodatabaselib2016.iml" filepath="$PROJECT_DIR$/../PhotoDatabase2016/photodatabaselib2016/photodatabaselib2016.iml" group="Interphoto2016_1.5.5/photodatabaselib2016" />
+      <module fileurl="file://$PROJECT_DIR$/../PocoInterface2016/pocointerfacelibs/pocointerfacelibs.iml" filepath="$PROJECT_DIR$/../PocoInterface2016/pocointerfacelibs/pocointerfacelibs.iml" group="Interphoto2016_1.5.5/pocointerfacelibs" />
+      <module fileurl="file://$PROJECT_DIR$/../PocoLibs2016/pocolibs/pocolibs.iml" filepath="$PROJECT_DIR$/../PocoLibs2016/pocolibs/pocolibs.iml" group="Interphoto2016_1.5.5/pocolibs" />
+      <module fileurl="file://$PROJECT_DIR$/../ResourceLibs2017/resourcelibs/resourcelibs.iml" filepath="$PROJECT_DIR$/../ResourceLibs2017/resourcelibs/resourcelibs.iml" group="Interphoto2016_1.5.5/resourcelibs" />
+      <module fileurl="file://$PROJECT_DIR$/../StatisticLibs2017/statisticlibs/statisticlibs.iml" filepath="$PROJECT_DIR$/../StatisticLibs2017/statisticlibs/statisticlibs.iml" group="Interphoto2016_1.5.5/statisticlibs" />
+      <module fileurl="file://$PROJECT_DIR$/../StorageSystem2016/storagesystemlibs/storagesystemlibs.iml" filepath="$PROJECT_DIR$/../StorageSystem2016/storagesystemlibs/storagesystemlibs.iml" group="Interphoto2016_1.5.5/storagesystemlibs" />
+    </modules>
+  </component>
+</project>

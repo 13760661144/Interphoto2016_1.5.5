@@ -1,0 +1,31 @@
+include ':app'
+
+include ':pocolibs'
+project (':pocolibs').projectDir = new File('../PocoLibs2016/pocolibs/')
+
+include ':bloglibs'
+project (':bloglibs').projectDir = new File('../BlogLibs2016/bloglibs/')
+
+include ':cameralibs'
+project (':cameralibs').projectDir = new File('../Camera2016/')
+
+include ':photodatabaselib2016'
+project (':photodatabaselib2016').projectDir = new File('../PhotoDatabase2016/photodatabaselib2016/')
+
+include ':pocointerfacelibs'
+project (':pocointerfacelibs').projectDir = new File('../PocoInterface2016/pocointerfacelibs/')
+
+include ':loginlibs'
+project (':loginlibs').projectDir = new File('../LoginSystem2016/loginlibs/')
+
+include ':storagesystemlibs'
+project (':storagesystemlibs').projectDir = new File('../StorageSystem2016/storagesystemlibs/')
+
+include ':statisticlibs'
+project (':statisticlibs').projectDir = new File('../StatisticLibs2017/statisticlibs/')
+
+include ':resourcelibs'
+project (':resourcelibs').projectDir = new File('../ResourceLibs2017/resourcelibs/')
+
+include ':admasterlibs'
+project (':admasterlibs').projectDir = new File('../AdMasterLibs2017/admasterlibs/')

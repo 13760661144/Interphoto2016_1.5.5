@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#000000"
+    tools:context=".PocoCamera">
+
+    <ImageView
+        android:id="@+id/iv_bg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/bg"/>
+
+    <ImageView
+        android:id="@+id/iv_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="54dp"
+        android:src="@drawable/text"/>
+
+    <ImageView
+        android:id="@+id/iv_save"
+        android:layout_width="17dp"
+        android:layout_height="17dp"
+        android:layout_marginLeft="-16dp"
+        android:layout_marginTop="54dp"
+        android:layout_toRightOf="@id/iv_text"
+        android:src="@drawable/photofactory_pendant_save_btn"
+        android:visibility="gone"/>
+
+    <ImageView
+        android:id="@+id/iv_bg2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/bg2"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/tv_s"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="110dp"
+        android:text="S"
+        android:textColor="#ffffff"
+        android:textSize="16sp"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/tv_a"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/tv_s"
+        android:text="A"
+        android:textColor="#ffffff"
+        android:textSize="16sp"
+        android:visibility="gone"
+        />
+
+    <TextView
+        android:id="@+id/tv_m"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/tv_a"
+        android:text="M"
+        android:textColor="#ffffff"
+        android:textSize="16sp"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/tv_v"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/tv_m"
+        android:text="V"
+        android:textColor="#ffffff"
+        android:textSize="16sp"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/tv_i"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/tv_v"
+        android:text="I"
+        android:textColor="#ffffff"
+        android:textSize="16sp"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/tv_s2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/tv_i"
+        android:text="S"
+        android:textColor="#ffffff"
+        android:textSize="16sp"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/tv_i2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/tv_s2"
+        android:text="I"
+        android:textColor="#ffffff"
+        android:textSize="16sp"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/tv_o"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/tv_i2"
+        android:text="O"
+        android:textColor="#ffffff"
+        android:textSize="16sp"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/tv_n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/tv_o"
+        android:text="N"
+        android:textColor="#ffffff"
+        android:textSize="16sp"
+        android:visibility="gone"/>
+
+    <cn.poco.beautify.animations.Circle
+        android:id="@+id/circle"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:visibility="gone"/>
+
+</RelativeLayout>

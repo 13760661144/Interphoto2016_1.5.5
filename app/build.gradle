@@ -1,0 +1,220 @@
+apply plugin: 'com.android.application'
+
+android {
+	signingConfigs {
+		mySigned {
+			keyAlias 'poco365'
+			keyPassword 'poco365'
+			storeFile file('poco365key')
+			storePassword 'poco365'
+		}
+	}
+	compileSdkVersion 28
+	defaultConfig {
+		applicationId "cn.poco.interphoto2"
+		minSdkVersion 18
+		targetSdkVersion 28
+		versionCode 16
+		versionName '1.5.5'
+		multiDexEnabled true
+		flavorDimensions "default"
+
+		//默认打包配置
+		manifestPlaceholders = ['MY_PACK_TIME'        : new Date().format('yyyy-MM-dd HH:mm'),//记录打包时间
+								'MY_CHANNEL_VALUE'    : '',//应用渠道号
+								'MY_SHOW_CHANNEL_LOGO': false,//是否显示渠道logo
+								'MY_HIDE_APP_MARKET'  : false,//是否隐藏市场入口
+		]
+
+		ndk {
+			// bugly设置支持的SO库架构
+			abiFilters 'armeabi-v7a' //, 'x86', 'armeabi-v7a', 'x86_6 4', 'arm64-v8a'
+		}
+	}
+	buildTypes {
+		release {
+			minifyEnabled false
+			proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+
+			signingConfig signingConfigs.mySigned
+		}
+		debug {
+			signingConfig signingConfigs.mySigned
+		}
+	}
+    lintOptions {
+        disable 'MissingTranslation'
+    }
+    productFlavors {
+        _poco {//默认渠道
+        }
+        google_r1 {//google play
+            manifestPlaceholders = ['MY_CHANNEL_VALUE'    : '_r1',
+                                    'MY_SHOW_CHANNEL_LOGO': false,
+                                    'MY_HIDE_APP_MARKET'  : true,
+            ]
+        }
+        baidu_r3 {//百度
+            manifestPlaceholders = ['MY_CHANNEL_VALUE'    : '_r3',
+                                    'MY_SHOW_CHANNEL_LOGO': false,
+                                    'MY_HIDE_APP_MARKET'  : false,
+            ]
+        }
+        anzhi_r10 {//安智
+            manifestPlaceholders = ['MY_CHANNEL_VALUE'    : '_r10',
+                                    'MY_SHOW_CHANNEL_LOGO': false,
+                                    'MY_HIDE_APP_MARKET'  : true,
+            ]
+        }
+        lianxiang_r12 {//联想
+            manifestPlaceholders = ['MY_CHANNEL_VALUE'    : '_r12',
+                                    'MY_SHOW_CHANNEL_LOGO': false,
+                                    'MY_HIDE_APP_MARKET'  : true,
+            ]
+        }
+        wandoujia_r17 {//豌豆荚
+            manifestPlaceholders = ['MY_CHANNEL_VALUE'    : '_r17',
+                                    'MY_SHOW_CHANNEL_LOGO': false,
+                                    'MY_HIDE_APP_MARKET'  : false,
+            ]
+        }
+        a360_r18 {//360
+            manifestPlaceholders = ['MY_CHANNEL_VALUE'    : '_r18',
+                                    'MY_SHOW_CHANNEL_LOGO': false,
+                                    'MY_HIDE_APP_MARKET'  : false,
+            ]
+        }
+        a360_r18cpd {//360付费
+            manifestPlaceholders = ['MY_CHANNEL_VALUE'    : '_r18cpd',
+                                    'MY_SHOW_CHANNEL_LOGO': false,
+                                    'MY_HIDE_APP_MARKET'  : false,
+            ]
+        }
+        yingyongbao_r19 {//应用宝
+            manifestPlaceholders = ['MY_CHANNEL_VALUE'    : '_r19',
+                                    'MY_SHOW_CHANNEL_LOGO': false,
+                                    'MY_HIDE_APP_MARKET'  : false,
+            ]
+        }
+        yingyongbao_r19cpd {//应用宝
+            manifestPlaceholders = ['MY_CHANNEL_VALUE'    : '_r19cpd',
+                                    'MY_SHOW_CHANNEL_LOGO': false,
+                                    'MY_HIDE_APP_MARKET'  : false,
+            ]
+        }
+        xiaomi_r20 {//小米
+            manifestPlaceholders = ['MY_CHANNEL_VALUE'    : '_r20',
+                                    'MY_SHOW_CHANNEL_LOGO': false,
+                                    'MY_HIDE_APP_MARKET'  : false,
+            ]
+        }
+        meizu_r30 {//魅族
+            manifestPlaceholders = ['MY_CHANNEL_VALUE'    : '_r30',
+                                    'MY_SHOW_CHANNEL_LOGO': false,
+                                    'MY_HIDE_APP_MARKET'  : false,
+            ]
+        }
+        huawei_r31 {//华为
+            manifestPlaceholders = ['MY_CHANNEL_VALUE'    : '_r31',
+                                    'MY_SHOW_CHANNEL_LOGO': false,
+                                    'MY_HIDE_APP_MARKET'  : false,
+            ]
+        }
+        oppo_r32 {//oppo
+            manifestPlaceholders = ['MY_CHANNEL_VALUE'    : '_r32',
+                                    'MY_SHOW_CHANNEL_LOGO': false,
+                                    'MY_HIDE_APP_MARKET'  : false,
+            ]
+        }
+        pp_r33 {//pp助手
+            manifestPlaceholders = ['MY_CHANNEL_VALUE'    : '_r33',
+                                    'MY_SHOW_CHANNEL_LOGO': false,
+                                    'MY_HIDE_APP_MARKET'  : false,
+            ]
+        }
+        jinli_r34 {//金立
+            manifestPlaceholders = ['MY_CHANNEL_VALUE'    : '_r34',
+                                    'MY_SHOW_CHANNEL_LOGO': false,
+                                    'MY_HIDE_APP_MARKET'  : true,
+            ]
+        }
+        leshi_r35 {//乐视
+            manifestPlaceholders = ['MY_CHANNEL_VALUE'    : '_r35',
+                                    'MY_SHOW_CHANNEL_LOGO': false,
+                                    'MY_HIDE_APP_MARKET'  : false,
+            ]
+        }
+        vivo_r36 {//vivo
+            manifestPlaceholders = ['MY_CHANNEL_VALUE'    : '_r36',
+                                    'MY_SHOW_CHANNEL_LOGO': false,
+                                    'MY_HIDE_APP_MARKET'  : true,
+            ]
+        }
+        chuizi_r37 {//锤子
+            manifestPlaceholders = ['MY_CHANNEL_VALUE'    : '_r37',
+                                    'MY_SHOW_CHANNEL_LOGO': false,
+                                    'MY_HIDE_APP_MARKET'  : false,
+            ]
+        }
+        aiqiyi_r38 {//爱奇艺
+            manifestPlaceholders = ['MY_CHANNEL_VALUE'    : '_r38',
+                                    'MY_SHOW_CHANNEL_LOGO': false,
+                                    'MY_HIDE_APP_MARKET'  : false,
+            ]
+        }
+        sanxing_r39 {//三星
+            manifestPlaceholders = ['MY_CHANNEL_VALUE'    : '_r39',
+                                    'MY_SHOW_CHANNEL_LOGO': false,
+                                    'MY_HIDE_APP_MARKET'  : false,
+            ]
+        }
+        sougou_r40 {//搜狗
+            manifestPlaceholders = ['MY_CHANNEL_VALUE'    : '_r40',
+                                    'MY_SHOW_CHANNEL_LOGO': false,
+                                    'MY_HIDE_APP_MARKET'  : false,
+            ]
+        }
+        weixin_rwx {//微信
+            manifestPlaceholders = ['MY_CHANNEL_VALUE'    : '_rwx',
+                                    'MY_SHOW_CHANNEL_LOGO': false,
+                                    'MY_HIDE_APP_MARKET'  : false,
+            ]
+        }
+        jufeng_r41 {//聚丰
+            manifestPlaceholders = ['MY_CHANNEL_VALUE'    : '_r41',
+                                    'MY_SHOW_CHANNEL_LOGO': false,
+                                    'MY_HIDE_APP_MARKET'  : false,
+            ]
+        }
+    }
+}
+
+repositories {
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:28.0.0'
+    compile 'com.android.support:recyclerview-v7:28.0.0'
+    compile 'com.android.support:multidex:1.0.2'
+    compile 'com.tencent.bugly:crashreport:latest.release'
+    compile 'com.tencent.bugly:nativecrashreport:latest.release'
+    //compile(name: 'MagicWindowSDK', ext: 'aar')
+    compile project(':pocolibs')
+    compile project(':bloglibs')
+    compile project(':cameralibs')
+    compile 'com.github.bumptech.glide:glide:3.8.0'
+    compile project(':photodatabaselib2016')
+    compile project(':loginlibs')
+    compile project(':pocointerfacelibs')
+    compile project(':storagesystemlibs')
+    compile project(':statisticlibs')
+    compile(name: 'circleSDKv2.1', ext: 'aar')
+    //    compile 'com.google.android.exoplayer:exoplayer-core:r2.5.4'
+    compile project(':admasterlibs')
+    configurations.all {exclude group: 'com.android.support', module: 'support-v4'}
+}

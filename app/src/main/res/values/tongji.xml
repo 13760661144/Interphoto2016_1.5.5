@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 首页 -->
+    <integer name="首页_侧栏">1290003</integer>
+    <integer name="首页_侧栏_印象杂志">1290032</integer>
+    <integer name="首页_侧栏_应用推荐">1290033</integer>
+    <integer name="首页_侧栏_设置">1290034</integer>
+    <integer name="首页_轮播图">1290004</integer>
+
+    <!-- 相机 -->
+    <integer name="拍照">1290001</integer>
+    <integer name="拍照_按钮">1290026</integer>
+    <integer name="拍照_比例_4_3">1290037</integer>
+    <integer name="拍照_比例_1_1">1290038</integer>
+    <integer name="拍照_比例_16_9">1290039</integer>
+    <integer name="拍照_教程">1290027</integer>
+    <integer name="拍照_构图线">1290028</integer>
+    <integer name="拍照_构图线_合影">1290029</integer>
+    <integer name="拍照_构图线_风光">1290030</integer>
+    <integer name="拍照_构图线_美食">1290031</integer>
+    <integer name="录像">1291108</integer>
+    <integer name="录像_录像按钮">1291109</integer>
+    <integer name="录像_画幅_16_9">1291110</integer>
+    <integer name="录像_画幅_9_16">1291111</integer>
+    <integer name="录像_画幅_235_1">1291345</integer>
+    <integer name="录像_画幅_1_1">1291112</integer>
+    <integer name="录像_时长_60">1291113</integer>
+    <integer name="录像_时长_30">1291114</integer>
+    <integer name="录像_时长_10">1291115</integer>
+    <integer name="相机_滤镜">1291116</integer>
+    <integer name="相机_滤镜微调">1291117</integer>
+    <integer name="相机_触屏拍照">1291118</integer>
+
+    <!-- 美化 -->
+    <integer name="美化">1290002</integer>
+    <integer name="美化_剪裁">1290005</integer>
+    <integer name="美化_剪裁_1_1">1290040</integer>
+    <integer name="美化_剪裁_3_4">1290041</integer>
+    <integer name="美化_剪裁_4_3">1290042</integer>
+    <integer name="美化_剪裁_9_16">1290043</integer>
+    <integer name="美化_剪裁_16_9">1290044</integer>
+    <integer name="美化_剪裁_剪裁比例">1290200</integer>
+    <integer name="美化_剪裁_2_3">1290201</integer>
+    <integer name="美化_剪裁_3_2">1290202</integer>
+    <integer name="美化_剪裁_free">1290203</integer>
+    <integer name="美化_剪裁_旋转">1290204</integer>
+    <integer name="美化_剪裁_90度旋转">1290205</integer>
+    <integer name="美化_剪裁_水平矫正">1290206</integer>
+    <integer name="美化_剪裁_垂直矫正">1290207</integer>
+
+    <integer name="美化_滤镜">1290006</integer>
+    <integer name="美化_滤镜_保存">1290009</integer>
+    <integer name="美化_滤镜_调整">1290010</integer>
+    <integer name="美化_滤镜_调整_亮度">1290012</integer>
+    <integer name="美化_滤镜_调整_对比度">1290013</integer>
+    <integer name="美化_滤镜_调整_增强">1290014</integer>
+    <integer name="美化_滤镜_调整_色温">1290015</integer>
+    <integer name="美化_滤镜_调整_饱和度">1290016</integer>
+    <integer name="美化_滤镜_调整_锐化">1290017</integer>
+    <integer name="美化_滤镜_调整_色调">1290045</integer>
+    <integer name="美化_滤镜_调整_高光">1290046</integer>
+    <integer name="美化_滤镜_调整_阴影">1290047</integer>
+    <integer name="美化_滤镜_调整_暗角">1290048</integer>
+    <integer name="美化_滤镜_调整_颗粒">1290049</integer>
+    <integer name="美化_滤镜_调整_褪色">1290050</integer>
+    <integer name="美化_滤镜_调整_曲线">1290208</integer>
+    <integer name="美化_滤镜_调整_肤色">1290889</integer>
+    <integer name="美化_滤镜_大师介绍">1290018</integer>
+    <integer name="美化_滤镜_隐藏">1290443</integer>
+    <integer name="美化_滤镜_主题推荐位">1290444</integer>
+    <integer name="美化_滤镜_更多按钮">1290819</integer>
+
+    <integer name="美化_文字">1290007</integer>
+    <integer name="美化_文字_水印">1290019</integer>
+    <integer name="美化_文字_水印_我的">1290051</integer>
+    <integer name="美化_文字_水印_添加">1290052</integer>
+    <integer name="美化_文字_添加水印">1290019</integer>
+    <integer name="美化_文字_态度">1290053</integer>
+    <integer name="美化_文字_保存">1290035</integer>
+    <integer name="美化_文字_态度_隐藏">1290447</integer>
+    <integer name="美化_文字_态度_主题推荐位">1290448</integer>
+    <integer name="美化_文字_水印_隐藏">1290445</integer>
+    <integer name="美化_文字_水印_主题推荐位">1290446</integer>
+
+    <integer name="美化_文字_态度_拆分水印">1290723</integer>
+    <integer name="美化_文字_态度_组合水印">1290724</integer>
+    <integer name="美化_文字_态度_保存水印">1290725</integer>
+    <integer name="美化_文字_态度_更多按钮">1290821</integer>
+
+    <integer name="美化_文字_水印_拆分水印">1290720</integer>
+    <integer name="美化_文字_水印_组合水印">1290721</integer>
+    <integer name="美化_文字_水印_保存水印">1290722</integer>
+    <integer name="美化_文字_水印_更多按钮">1290820</integer>
+    <integer name="美化_文字_取色器">1290823</integer>
+
+    <integer name="美化_光效">1290221</integer>
+    <integer name="美化_光效_保存">1290222</integer>
+    <integer name="美化_光效_介绍页">1290223</integer>
+    <integer name="美化_光效_微调不透明度">1290224</integer>
+    <integer name="美化_光效_水平翻转">1290225</integer>
+    <integer name="美化_光效_垂直翻转">1290226</integer>
+    <integer name="美化_光效_隐藏">1290454</integer>
+    <integer name="美化_光效_主题推荐位">1290455</integer>
+    <integer name="美化_光效_调整_亮度">1290655</integer>
+    <integer name="美化_光效_调整_饱和度">1290656</integer>
+    <integer name="美化_光效_调整_色相">1290657</integer>
+    <integer name="美化_光效_原图">1290659</integer>
+    <integer name="美化_光效_更多按钮">1290822</integer>
+
+    <!-- popup -->
+    <integer name="POPUP">1290228</integer>
+    <integer name="POPUP_跳去下载">1290229</integer>
+    <integer name="POPUP_了解更多">1290230</integer>
+
+    <!-- 分享 -->
+    <integer name="分享">1290008</integer>
+    <integer name="分享_微信好友">1290022</integer>
+    <integer name="分享_微信朋友圈">1290023</integer>
+    <integer name="分享_新浪微博">1290024</integer>
+    <integer name="分享_QQ空间">1290025</integer>
+    <integer name="分享_QQ好友">1290453</integer>
+    <integer name="分享_Facebook">1290215</integer>
+    <integer name="分享_Instagram">1290216</integer>
+    <integer name="分享_Twitter">1290217</integer>
+    <integer name="分享_在一起">1290890</integer>
+    <integer name="分享_保存至本地">1290218</integer>
+    <integer name="分享_恢复">1290219</integer>
+    <integer name="分享_删除">1290220</integer>
+    <integer name="恢复上一步">1290449</integer>
+    <integer name="恢复原图">1290450</integer>
+    <integer name="复制效果">1290451</integer>
+    <integer name="粘贴效果">1290452</integer>
+
+    <!-- 素材 -->
+    <integer name="基础1">1290095</integer>
+    <integer name="基础2">1290096</integer>
+    <integer name="基础3">1290097</integer>
+    <integer name="基础4">1290098</integer>
+    <integer name="基础5">1290099</integer>
+    <integer name="美食1">1290100</integer>
+    <integer name="美食2">1290101</integer>
+    <integer name="美食3">1290102</integer>
+    <integer name="美食4">1290103</integer>
+    <integer name="美食5">1290104</integer>
+    <integer name="美食6">1290105</integer>
+    <integer name="风光1">1290106</integer>
+    <integer name="风光2">1290107</integer>
+    <integer name="风光3">1290108</integer>
+    <integer name="合照1">1290109</integer>
+    <integer name="合照2">1290110</integer>
+    <integer name="合照3">1290111</integer>
+
+    <!-- 颜色-素材-->
+
+    <!-- 相册 -->
+    <integer name="系统相册">1290457</integer>
+    <integer name="系统相册_选择">1290458</integer>
+    <integer name="系统相册_粘贴效果">1290460</integer>
+    <integer name="系统相册_删除">1290461</integer>
+    <integer name="系统相册_取消">1290462</integer>
+    <integer name="InterPhoto">1290463</integer>
+    <integer name="InterPhoto_选择照片">1290465</integer>
+    <integer name="InterPhoto_复制效果">1290466</integer>
+    <integer name="InterPhoto_粘贴效果">1290467</integer>
+    <integer name="InterPhoto_保存">1290468</integer>
+    <integer name="InterPhoto_删除">1290469</integer>
+    <integer name="InterPhoto_取消">1290470</integer>
+    <integer name="优化内存">1290814</integer>
+    <integer name="查看手机空间">1290815</integer>
+    <integer name="清理InterPhoto">1290816</integer>
+
+    <!-- 素材中心 -->
+    <integer name="素材商店">1290471</integer>
+    <integer name="素材商店_滤镜主题列表">1290472</integer>
+    <integer name="素材商店_滤镜主题详情页">1290473</integer>
+    <integer name="素材商店_滤镜主题详情页_立即下载">1290474</integer>
+    <integer name="素材商店_滤镜主题详情页_立即体验">1290475</integer>
+    <integer name="素材商店_滤镜主题详情页_分享按钮">1290476</integer>=
+
+    <integer name="素材商店_文字主题列表">1290482</integer>
+    <integer name="素材商店_文字主题详情页">1290483</integer>
+    <integer name="素材商店_文字主题详情页_立即下载">1290484</integer>
+    <integer name="素材商店_文字主题详情页_立即体验">1290485</integer>
+    <integer name="素材商店_文字主题详情页_分享按钮">1290486</integer>=
+
+    <integer name="素材商店_光效主题列表">1290492</integer>
+    <integer name="素材商店_光效主题详情页">1290493</integer>
+    <integer name="素材商店_光效主题详情页_立即下载">1290494</integer>
+    <integer name="素材商店_光效主题详情页_立即体验">1290495</integer>
+    <integer name="素材商店_光效主题详情页_分享按钮">1290496</integer>=
+
+    <integer name="素材商店_素材管理">1290502</integer>
+    <integer name="素材商店_素材管理_滤镜管理">1290503</integer>
+    <integer name="素材商店_素材管理_滤镜管理_隐藏">1290504</integer>
+    <integer name="素材商店_素材管理_滤镜管理_排序">1290505</integer>
+    <integer name="素材商店_素材管理_水印管理">1290506</integer>
+    <integer name="素材商店_素材管理_水印管理_隐藏">1290507</integer>
+    <integer name="素材商店_素材管理_水印管理_排序">1290508</integer>
+    <integer name="素材商店_素材管理_态度管理">1290509</integer>
+    <integer name="素材商店_素材管理_态度管理_隐藏">1290510</integer>
+    <integer name="素材商店_素材管理_态度管理_排序">1290511</integer>
+    <integer name="素材商店_素材管理_光效管理">1290512</integer>
+    <integer name="素材商店_素材管理_光效管理_隐藏">1290513</integer>
+    <integer name="素材商店_素材管理_光效管理_排序">1290514</integer>
+
+    <!-- 视频 -->
+    <integer name="视频">1291121</integer>
+    <integer name="视频_返回">1291152</integer>
+    <integer name="视频_进度控制按钮">1291346</integer>
+
+    <!-- 分享 -->
+    <integer name="视频_分享">1291148</integer>
+    <integer name="视频_分享_微信好友">1291149</integer>
+    <integer name="视频_分享_微信朋友圈">1291150</integer>
+    <integer name="视频_分享_在一起">1291264</integer>
+    <integer name="视频_分享_保存至本地">1291151</integer>
+
+    <!-- 侧栏-->
+    <integer name="视频高清模式">1291119</integer>
+
+    <integer name="视频LOGO">1291120</integer>
+    <integer name="视频LOGO1">1291244</integer>
+    <integer name="视频LOGO2">1291245</integer>
+    <integer name="视频LOGO3">1291246</integer>
+    <integer name="视频LOGO4">1291247</integer>
+    <integer name="视频LOGO5">1291248</integer>
+    <integer name="视频LOGO6">1291249</integer>
+    <integer name="视频LOGO7">1291250</integer>
+
+    <!--裁剪-->
+    <integer name="裁剪">1291122</integer>
+    <integer name="裁剪free">1291124</integer>
+    <integer name="裁剪10s">1291125</integer>
+    <integer name="裁剪15s">1291126</integer>
+    <integer name="裁剪30s">1291127</integer>
+
+    <!-- 音乐-->
+    <integer name="音乐">1291142</integer>
+    <integer name="本地音乐">1291144</integer>
+    <integer name="屏蔽视频音">1291143</integer>
+    <integer name="修改音乐">1291251</integer>
+    <integer name="取消音乐">1291252</integer>
+    <integer name="音乐_长按隐藏">1291253</integer>
+    <integer name="音乐_视频音量">1291347</integer>
+    <integer name="音乐_音乐音量">1291348</integer>
+    <integer name="音乐_手势_点击_下滑退出音乐选择">1291349</integer>
+    <integer name="音乐_音乐选择_刻度条">1291350</integer>
+    <integer name="音乐_视频音量_刻度条">1291351</integer>
+    <integer name="音乐_音乐音量_刻度条">1291352</integer>
+    <integer name="音乐_进度控制按钮">1291353</integer>
+
+    <!-- 水印 -->
+    <integer name="水印">1291145</integer>
+    <integer name="选择水印">1291146</integer>
+    <integer name="创意">1291147</integer>
+    <integer name="修改">1291254</integer>
+    <integer name="片头">1291255</integer>
+    <integer name="全场">1291256</integer>
+    <integer name="片尾">1291257  </integer>
+    <integer name="水印_长按隐藏">1291258</integer>
+    <integer name="水印_进度控制按钮">1291354</integer>
+
+    <!-- 滤镜-->
+    <integer name="滤镜">1291123</integer>
+    <integer name="保存">1291128</integer>
+    <integer name="调整">1291129</integer>
+    <integer name="亮度">1291130</integer>
+    <integer name="对比">1291131</integer>
+    <integer name="色温">1291132</integer>
+    <integer name="饱和度">1291133</integer>
+    <integer name="锐化">1291134</integer>
+    <integer name="色调">1291135</integer>
+    <integer name="高光">1291136</integer>
+    <integer name="阴影">1291137</integer>
+    <integer name="暗角">1291138</integer>
+    <integer name="滤镜微调">1291239</integer>
+    <integer name="滤镜_长按隐藏">1291140</integer>
+    <integer name="滤镜_进度控制按钮">1291141</integer>
+
+    <integer name="设置_分享QQ好友">1291360</integer>
+    <integer name="设置_分享微信好友">1291357</integer>
+    <integer name="设置_分享QQ空间">1291359</integer>
+    <integer name="设置_分享朋友圈">1291356</integer>
+    <integer name="设置_分享新浪微博">1291358</integer>
+
+</resources>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="about_back" type="id"/>
+    <item name="about_icon" type="id"/>
+
+    <item name="camera_black" type="id"/>
+    <item name="camera_layout" type="id"/>
+    <item name="camera_btn_root_layout" type="id"/>
+    <item name="camera_open_teach" type="id"/>
+    <item name="camera_open_photo" type="id"/>
+    <item name="camera_take_pic" type="id"/>
+    <item name="camera_change_ratio" type="id"/>
+    <item name="camera_preview" type="id"/>
+    <item name="camera_top_control" type="id"/>
+    <item name="camera_bottom_control" type="id"/>
+    <item name="camera_back_btn" type="id"/>
+    <item name="camera_theme_container" type="id"/>
+    <item name="camera_theme_item" type="id"/>
+    <item name="camera_use_btn" type="id"/>
+    <item name="camera_item_name" type="id"/>
+
+    <item name="app_market_icon" type="id"/>
+    <item name="app_market_layout" type="id"/>
+    <item name="app_market_tex_app_name" type="id"/>
+    <item name="app_market_find" type="id"/>
+    <item name="app_market_boutique" type="id"/>
+    <item name="app_market_back" type="id"/>
+
+    <item name="setting_arrow" type="id"/>
+    <item name="setting_title" type="id"/>
+
+    <item name="photo_picker_icon" type="id"/>
+    <item name="photo_picker_title" type="id"/>
+    <item name="photo_picker_number" type="id"/>
+    <item name="photo_picker_title2" type="id"/>
+    <item name="photo_picker_top_bar" type="id"/>
+    <item name="photo_picker_tex" type="id"/>
+    <item name="photo_picker_number2" type="id"/>
+    <item name="photo_picker_top_bar2" type="id"/>
+    <item name="photo_picker_bottom_container" type="id"/>
+
+    <item name="beautify_img" type="id"/>
+
+    <item name="toast_message" type="id"/>
+
+    <item name="btn_rgb" type="id"/>
+    <item name="btn_r" type="id"/>
+    <item name="btn_g" type="id"/>
+    <item name="btn_b" type="id"/>
+
+    <item name="manage_mgr_thumb" type="id"/>
+    <item name="manage_mgr_title" type="id"/>
+    <item name="manage_mgr_scan" type="id"/>
+    <item name="manage_mgr_manageText" type="id"/>
+    <item name="manage_mgr_drag" type="id"/>
+    <item name="manage_mgr_divide" type="id"/>
+
+    <item name="login_top_fr" type="id" />
+    <item name="login_center_ll_parent" type="id" />
+    <item name="login_phone_area_rl" type="id" />
+    <item name="login_phone_area_rl_icon" type="id" />
+    <item name="login_phone_area_rl_num" type="id" />
+    <item name="login_code_rl_tip" type="id" />
+    <item name="login_code_rl_icon" type="id" />
+    <item name="login_logo_icons_ll" type="id" />
+    <item name="login_registerinfopage_nickname" type="id" />
+    <item name="login_registerinfopage_centernickicon" type="id" />
+    <item name="login_registerinfopage_userheadcon" type="id" />
+    <item name="login_registerinfopage_m_topbar" type="id" />
+    <item name="login_userinfo_item_arrow" type="id" />
+    <item name="login_userinfo_item_title" type="id" />
+    <item name="login_edit_left_icon" type="id" />
+    <item name="login_edit_right_icon" type="id" />
+
+    <item name="m_topBar" type="id"/>
+    <item name="tiemFrameLayout" type="id"/>
+    <item name="textLayout" type="id"/>
+    <item name="mTextView" type="id"/>
+    <item name="inputText" type="id"/>
+    <item name="modeText" type="id"/>
+    <item name="modeLayout" type="id"/>
+    <item name="modifyText" type="id"/>
+    <item name="editText" type="id"/>
+    <item name="unfolImage" type="id"/>
+    <item name="backImage" type="id"/>
+    <item name="linsView" type="id"/>
+
+    <item name="centerView" type="id"/>
+    <item name="playView" type="id"/>
+    <item name="nameText" type="id"/>
+    <item name="singerText" type="id"/>
+    <item name="dwonloadRootView" type="id"/>
+
+    <item name="watermarkSwitch" type="id"/>
+    <item name="watermarkPic" type="id"/>
+    <item name="partinglins" type="id"/>
+    <item name="shaderView" type="id"/>
+    <item name="nameInput" type="id"/>
+
+    <item name="album_image" type="id"/>
+    <item name="album_singer" type="id"/>
+    <item name="album_song" type="id"/>
+
+    <item name="album_popup_root1" type="id"/>
+    <item name="album_popup_image1" type="id"/>
+    <item name="album_popup_text1" type="id"/>
+    <item name="album_popup_arrow1" type="id"/>
+
+    <item name="album_popup_root2" type="id"/>
+    <item name="album_popup_image2" type="id"/>
+    <item name="album_popuo_text2" type="id"/>
+    <item name="album_popuo_arrow2" type="id"/>
+
+    <item name="album_popup_root3" type="id"/>
+    <item name="album_popup_image3" type="id"/>
+    <item name="album_popup_text3" type="id"/>
+    <item name="album_popup_arrow3" type="id"/>
+
+    <item name="album_popup_root4" type="id"/>
+    <item name="album_popup_image4" type="id"/>
+    <item name="album_popup_text4" type="id"/>
+    <item name="album_popup_arrow4" type="id"/>
+
+
+    <item name="home_dialog_image" type="id"/>
+    <item name="home_dialog_titleView" type="id"/>
+    <item name="home_dialog_line" type="id"/>
+    <item name="home_dialog_updateText" type="id"/>
+    <item name="home_dialog_okBtn" type="id"/>
+    <item name="home_dialog_viewPager" type="id"/>
+
+    <item name="select_watermark" type="id"/>
+
+    <item name="empty_text" type="id"/>
+    <item name="iv_decorate" type="id"/>
+    <item name="iv_image" type="id"/>
+    <item name="tv_folder_name" type="id"/>
+
+
+    <item name="botText" type="id"/>
+    <item name="botlinearLyouat" type="id"/>
+    <item name="interPhotoText" type="id"/>
+
+    <item name="logoView" type="id"/>
+    <item name="interPhotoView" type="id"/>
+
+</resources>

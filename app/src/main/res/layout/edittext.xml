@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EditText xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/edittext"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:textCursorDrawable="@drawable/color_cursor"
+    android:cursorVisible="true"
+    android:textColor="#ff666666"
+    android:background="#4d000000"
+    android:verticalScrollbarPosition="right"
+    android:scrollbarAlwaysDrawVerticalTrack="true"
+    android:inputType="textMultiLine|textNoSuggestions"
+    android:minLines="1">
+
+</EditText>
